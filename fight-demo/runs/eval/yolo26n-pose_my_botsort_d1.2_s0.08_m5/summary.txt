@@ -1,0 +1,6 @@
+
+=== yolo26n-pose_my_botsort_d1.2_s0.08_m5 ===
+                 du doan DANH NHAU   du doan BINH THUONG
+that DANH NHAU         TP = 16              FN = 4  
+that BINH THUONG       FP = 5               TN = 15 
+Precision = 0.76   Recall = 0.80   F1 = 0.78   Accuracy = 0.78   (n = 40)

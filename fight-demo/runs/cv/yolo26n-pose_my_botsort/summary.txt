@@ -1,0 +1,28 @@
+5-fold, seed 0, 1049 video; moi fold: train ~713, val ~126, test ~210; 12 epoch, lr 0.01
+
+phuong phap                                             F1 tb+-std     AUC tb+-std  Acc tb |  F1 OOF AUC OOF    FP/FN
+protogcn_b (nguong 0.5)                                0.909+-0.008     0.975+-0.004   0.908 |   0.909   0.974   50/47  
+protogcn_b (nguong theo val)                           0.903+-0.012     0.975+-0.004   0.901 |   0.904   0.974   62/42  
+protogcn_j (nguong 0.5)                                0.916+-0.015     0.974+-0.004   0.915 |   0.915   0.974   42/47  
+protogcn_j (nguong theo val)                           0.917+-0.010     0.974+-0.004   0.914 |   0.917   0.974   58/32  
+protogcn_jm (nguong 0.5)                               0.914+-0.007     0.970+-0.004   0.913 |   0.914   0.969   48/43  
+protogcn_jm (nguong theo val)                          0.908+-0.015     0.970+-0.004   0.903 |   0.907   0.969   72/30  
+protogcn_bm (nguong 0.5)                               0.915+-0.012     0.970+-0.005   0.914 |   0.915   0.969   48/42  
+protogcn_bm (nguong theo val)                          0.907+-0.026     0.970+-0.005   0.906 |   0.907   0.969   55/44  
+stgcn_1p (nguong 0.5)                                  0.911+-0.017     0.966+-0.007   0.909 |   0.911   0.965   59/37  
+stgcn_1p (nguong theo val)                             0.893+-0.023     0.966+-0.007   0.886 |   0.892   0.965   87/33  
+TB protogcn_b+protogcn_j+protogcn_jm+protogcn_bm+stgcn_1p (nguong theo val)   0.919+-0.011     0.981+-0.004   0.917 |   0.919   0.980   49/38  
+stacking protogcn_b+protogcn_j+protogcn_jm+protogcn_bm+stgcn_1p (LR tren val)   0.927+-0.012     0.981+-0.003   0.927 |   0.927   0.978   37/40  
+
+McNemar tren ca 1049 video (du doan out-of-fold), so voi stgcn_1p (nguong 0.5):
+  protogcn_b (nguong 0.5)                              dung/ST-GCN sai  48, nguoc lai  49, p = 1.0000
+  protogcn_b (nguong theo val)                         dung/ST-GCN sai  47, nguoc lai  55, p = 0.4884
+  protogcn_j (nguong 0.5)                              dung/ST-GCN sai  43, nguoc lai  36, p = 0.4999
+  protogcn_j (nguong theo val)                         dung/ST-GCN sai  40, nguoc lai  34, p = 0.5614
+  protogcn_jm (nguong 0.5)                             dung/ST-GCN sai  39, nguoc lai  34, p = 0.6400
+  protogcn_jm (nguong theo val)                        dung/ST-GCN sai  39, nguoc lai  45, p = 0.5856
+  protogcn_bm (nguong 0.5)                             dung/ST-GCN sai  51, nguoc lai  45, p = 0.6101
+  protogcn_bm (nguong theo val)                        dung/ST-GCN sai  50, nguoc lai  53, p = 0.8439
+  stgcn_1p (nguong theo val)                           dung/ST-GCN sai  18, nguoc lai  42, p = 0.0027
+  TB protogcn_b+protogcn_j+protogcn_jm+protogcn_bm+stgcn_1p (nguong theo val) dung/ST-GCN sai  37, nguoc lai  28, p = 0.3211
+  stacking protogcn_b+protogcn_j+protogcn_jm+protogcn_bm+stgcn_1p (LR tren val) dung/ST-GCN sai  36, nguoc lai  17, p = 0.0127

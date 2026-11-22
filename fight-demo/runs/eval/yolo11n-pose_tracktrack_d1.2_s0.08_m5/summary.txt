@@ -1,0 +1,6 @@
+
+=== yolo11n-pose_tracktrack_d1.2_s0.08_m5 ===
+                 du doan DANH NHAU   du doan BINH THUONG
+that DANH NHAU         TP = 11              FN = 9  
+that BINH THUONG       FP = 3               TN = 17 
+Precision = 0.79   Recall = 0.55   F1 = 0.65   Accuracy = 0.70   (n = 40)

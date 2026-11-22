@@ -1,0 +1,232 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "[1] YOLO flow - frame 567",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/debug/debug_flow.py",
+      "args": [
+        "--start",
+        "567"
+      ],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "[2] YOLO track - code goc (frame 567-569)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/debug/run_track.py",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "[3] fight_demo - sparring (BoT-SORT ReID + YOLO26n)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/fight_demo.py",
+      "args": [
+        "--source",
+        "videos/sparring.mp4",
+        "--model",
+        "yolo26n-pose.pt",
+        "--tracker",
+        "my_botsort.yaml",
+        "--device",
+        "mps",
+        "--out",
+        "runs/debug_demo"
+      ],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "[4] Random Forest (1061 video)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/train_rf.py",
+      "args": [],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "[5] ST-GCN tung buoc (debug_stgcn.py)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/debug/debug_stgcn.py",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "[6] Fine-tune ST-GCN 1p - xem ket qua",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/finetune_stgcn.py",
+      "args": [
+        "--graph",
+        "1p"
+      ],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "[7] Fine-tune ST-GCN 2p - xem ket qua",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/finetune_stgcn.py",
+      "args": [
+        "--graph",
+        "2p"
+      ],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "[8] ST-GCN zero-shot + probe (eval_stgcn)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/eval_stgcn.py",
+      "args": [
+        "--norms",
+        "img,person"
+      ],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "[9] ProtoGCN bone-motion + 5-fold CV (chay lau ~2-3 gio)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/run_bm_and_cv.py",
+      "args": [],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "[10] ProtoGCN bone-motion tu FineGYM + ensemble 4 luong",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/run_bm_finegym.py",
+      "args": [],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "[11] Kiem chung ban port ProtoGCN tren FineGYM (luong j, 1 clip)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/eval_finegym.py",
+      "args": [],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "[12] Kiem chung FineGYM: 4 luong + gop + luong j 10 clip",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/run_finegym_check.py",
+      "args": [],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "[13] Ablation loss CSC (luong bone: lambda 0 va 0.3)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/run_csc_ablation.py",
+      "args": [],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "[14] 5-fold them 2 luong ProtoGCN (jm, bm) + gop 5 mo hinh",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight-demo/run_cv_all_streams.py",
+      "args": [],
+      "cwd": "${workspaceFolder}/fight-demo",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Debug YOLO flow",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/debug/debug_flow.py",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "Debug YOLO flow - pha clinch (frame 567)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/debug/debug_flow.py",
+      "args": [
+        "--start",
+        "567"
+      ],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "Debug YOLO flow - anh bus.jpg",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/debug/debug_flow.py",
+      "args": [
+        "--source",
+        "source/ultralytics/ultralytics/assets/bus.jpg"
+      ],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "ST-GCN tung buoc (debug_stgcn.py)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/debug/debug_stgcn.py",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/fight-demo/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}

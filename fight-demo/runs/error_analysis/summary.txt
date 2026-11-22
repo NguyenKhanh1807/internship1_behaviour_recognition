@@ -1,0 +1,10 @@
+210 video test. So video sai: proto_b 15, proto_j 27, proto_jm 25, proto_bm 25, stgcn_1p 23, stgcn_2p 26
+proto_b va stgcn_1p cung sai: 10 | chi proto_b sai: 5 | chi stgcn_1p sai: 13
+sai o MOI mo hinh: ['NV_233', 'NV_258', 'NV_568', 'NV_590', 'NV_687', 'V_843']
+sai o it nhat 1 mo hinh: 47
+
+trung vi dac trung theo nhom (ProtoGCN bone):
+  danh nhau, doan dung       n= 99  n_frames=132.00  persons_mean=2.33  frac_2plus=0.80  id_churn=3.00  min_dist=0.01  speed_p90=0.65  motion_all_p90=0.44  approach_p90=0.46
+  danh nhau, bo sot (FN)     n=  7  n_frames=87.00  persons_mean=1.35  frac_2plus=0.34  id_churn=3.41  min_dist=0.06  speed_p90=0.46  motion_all_p90=0.34  approach_p90=0.25
+  binh thuong, doan dung     n= 96  n_frames=115.00  persons_mean=1.75  frac_2plus=0.58  id_churn=1.79  min_dist=0.23  speed_p90=0.07  motion_all_p90=0.10  approach_p90=0.03
+  binh thuong, bao sai (FP)  n=  8  n_frames=123.50  persons_mean=3.62  frac_2plus=0.94  id_churn=2.41  min_dist=0.02  speed_p90=0.49  motion_all_p90=0.32  approach_p90=0.32

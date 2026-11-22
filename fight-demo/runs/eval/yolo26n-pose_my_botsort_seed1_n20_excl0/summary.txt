@@ -1,0 +1,14 @@
+preset        TP  FN  FP  TN   Prec    Rec     F1    Acc   dieu kien
+base          14   6   8  12   0.64   0.70   0.67   0.65   {}
+full_body     13   7   7  13   0.65   0.65   0.65   0.65   {'full_body': True}
+max_gap3      16   4   8  12   0.67   0.80   0.73   0.70   {'max_gap': 3}
+min_sec0.3     9  11   4  16   0.69   0.45   0.55   0.62   {'min_sec': 0.3}
+no_glitch     12   8   8  12   0.60   0.60   0.60   0.60   {'max_speed': 1.0}
+dir0.03       11   9   8  12   0.58   0.55   0.56   0.57   {'direction': 0.03}
+dir0.05       11   9   6  14   0.65   0.55   0.59   0.62   {'direction': 0.05}
+dir0.1         9  11   4  16   0.69   0.45   0.55   0.62   {'direction': 0.1}
+impact0.01    14   6   6  14   0.70   0.70   0.70   0.70   {'impact': 0.01}
+impact0.02    14   6   5  15   0.74   0.70   0.72   0.72   {'impact': 0.02}
+impact0.05    10  10   5  15   0.67   0.50   0.57   0.62   {'impact': 0.05}
+combo         11   9   4  16   0.73   0.55   0.63   0.68   {'full_body': True, 'max_speed': 1.0, 'max_gap': 3, 'direction': 0.05}
+tuned         10  10   2  18   0.83   0.50   0.62   0.70   {'direction': 0.02, 'impact': 0.02, 'max_speed': 1.0, 'speed': 0.06}

@@ -1,0 +1,25 @@
+Ensemble ProtoGCN (protogcn_finegym), trung binh xac suat, trong so bang nhau, nguong 0.5
+
+luong / to hop (cung 210 video test)     P     R    F1 CI95 F1        Acc    AUC CI95 AUC     FP/FN
+ProtoGCN j                            0.87  0.88  0.87 [0.82-0.92]   0.87  0.963 [0.94-0.98]   14/13 
+ProtoGCN b                            0.93  0.93  0.93 [0.89-0.96]   0.93  0.973 [0.95-0.99]    8/7  
+ProtoGCN jm                           0.85  0.93  0.89 [0.84-0.93]   0.88  0.958 [0.94-0.98]   18/7  
+ProtoGCN bm                           0.89  0.88  0.88 [0.84-0.93]   0.88  0.949 [0.92-0.97]   12/13 
+ProtoGCN j+b                          0.92  0.92  0.92 [0.88-0.95]   0.92  0.979 [0.96-0.99]    9/8  
+ProtoGCN j+jm                         0.87  0.89  0.88 [0.83-0.92]   0.88  0.967 [0.95-0.98]   14/12 
+ProtoGCN j+bm                         0.88  0.91  0.89 [0.85-0.93]   0.89  0.965 [0.94-0.98]   13/10 
+ProtoGCN b+jm                         0.91  0.93  0.92 [0.88-0.95]   0.92  0.975 [0.96-0.99]   10/7  
+ProtoGCN b+bm                         0.91  0.92  0.92 [0.88-0.95]   0.91  0.971 [0.95-0.99]   10/8  
+ProtoGCN jm+bm                        0.91  0.91  0.91 [0.86-0.94]   0.90  0.962 [0.94-0.98]   10/10 
+ProtoGCN j+b+jm                       0.90  0.92  0.91 [0.87-0.95]   0.91  0.977 [0.96-0.99]   11/8  
+ProtoGCN j+b+bm                       0.91  0.92  0.91 [0.87-0.95]   0.91  0.975 [0.96-0.99]   10/9  
+ProtoGCN j+jm+bm                      0.90  0.90  0.90 [0.85-0.93]   0.90  0.966 [0.94-0.98]   11/11 
+ProtoGCN b+jm+bm                      0.90  0.92  0.91 [0.87-0.95]   0.91  0.973 [0.95-0.99]   11/8  
+ProtoGCN j+b+jm+bm                    0.90  0.92  0.91 [0.86-0.94]   0.90  0.974 [0.96-0.99]   11/9  
+ST-GCN 1p                             0.86  0.93  0.90 [0.85-0.94]   0.89  0.963 [0.94-0.98]   16/7  
+ST-GCN 2p                             0.84  0.93  0.88 [0.83-0.93]   0.88  0.931 [0.89-0.97]   19/7  
+ProtoGCN j+b+jm+bm + ST-GCN 1p/2p     0.89  0.92  0.91 [0.87-0.95]   0.90  0.972 [0.95-0.99]   12/8  
+
+tuong quan xac suat giua cac luong: j-b 0.90, j-jm 0.92, j-bm 0.91, b-jm 0.88, b-bm 0.94, jm-bm 0.90
+McNemar j+b (Acc cao nhat) vs ST-GCN 1p: dung/sai = 11, nguoc lai = 5, p = 0.210
+(chon to hop tot nhat tren tap test -> lac quan; can validation hoac 5-fold de ket luan)

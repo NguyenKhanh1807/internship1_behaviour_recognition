@@ -1,0 +1,1050 @@
+video,label,img_fight,img_top1,person_fight,person_top1
+V_10,1,0.0445,A59 walking towards,0.0062,A59 walking towards
+V_100,1,0.043,A60 walking apart,0.0096,A59 walking towards
+V_1000,1,0.0019,A59 walking towards,0.0015,A59 walking towards
+V_101,1,0.0006,A59 walking towards,0.0008,A59 walking towards
+V_102,1,0.0001,A59 walking towards,0.0022,A59 walking towards
+V_105,1,0.0012,A59 walking towards,0.0008,A59 walking towards
+V_108,1,0.0016,A59 walking towards,0.0001,A59 walking towards
+V_112,1,0.0004,A59 walking towards,0.0004,A59 walking towards
+V_113,1,0.0035,A59 walking towards,0.0351,A59 walking towards
+V_114,1,0.003,A60 walking apart,0.0003,A59 walking towards
+V_115,1,0.0551,A55 hugging,0.1245,wear jacket
+V_116,1,0.0398,A55 hugging,0.0152,A59 walking towards
+V_117,1,0.0094,A55 hugging,0.0024,A59 walking towards
+V_12,1,0.0004,A59 walking towards,0.0017,A59 walking towards
+V_120,1,0.027,A60 walking apart,0.0375,A60 walking apart
+V_123,1,0.004,A55 hugging,0.0024,A59 walking towards
+V_124,1,0.001,A59 walking towards,0.0017,A60 walking apart
+V_125,1,0.0006,A59 walking towards,0.002,A59 walking towards
+V_126,1,0.0441,A59 walking towards,0.0021,A59 walking towards
+V_127,1,0.0005,A59 walking towards,0.0005,A59 walking towards
+V_129,1,0.0009,A59 walking towards,0.0018,A59 walking towards
+V_130,1,0.0007,A59 walking towards,0.002,A59 walking towards
+V_131,1,0.0017,A59 walking towards,0.0028,A59 walking towards
+V_132,1,0.0058,A59 walking towards,0.0048,A59 walking towards
+V_135,1,0.0003,A59 walking towards,0.0014,A59 walking towards
+V_138,1,0.0003,A59 walking towards,0.0002,A59 walking towards
+V_14,1,0.0005,A59 walking towards,0.0002,A59 walking towards
+V_143,1,0.0004,A59 walking towards,0.0006,A59 walking towards
+V_145,1,0.0002,A59 walking towards,0.0001,A59 walking towards
+V_147,1,0.0517,A59 walking towards,0.0028,A59 walking towards
+V_15,1,0.0003,A59 walking towards,0.0008,A59 walking towards
+V_150,1,0.0006,A59 walking towards,0.0018,A59 walking towards
+V_152,1,0.0012,A59 walking towards,0.0008,A59 walking towards
+V_153,1,0.002,A59 walking towards,0.001,A59 walking towards
+V_157,1,0.0083,A59 walking towards,0.0107,A59 walking towards
+V_159,1,0.0163,A59 walking towards,0.0154,A59 walking towards
+V_16,1,0.0135,A60 walking apart,0.0145,A60 walking apart
+V_160,1,0.0029,A55 hugging,0.0025,A60 walking apart
+V_163,1,0.0039,nausea / vomiting,0.007,nausea / vomiting
+V_165,1,0.0023,A59 walking towards,0.0018,A59 walking towards
+V_166,1,0.0005,A59 walking towards,0.0147,A59 walking towards
+V_168,1,0.0026,A59 walking towards,0.0067,A59 walking towards
+V_169,1,0.0039,nausea / vomiting,0.007,nausea / vomiting
+V_172,1,0.0242,A60 walking apart,0.0037,A59 walking towards
+V_173,1,0.003,A59 walking towards,0.0018,A59 walking towards
+V_174,1,0.0535,wear jacket,0.0596,wear jacket
+V_176,1,0.0028,A60 walking apart,0.001,A60 walking apart
+V_178,1,0.0342,A59 walking towards,0.0074,A59 walking towards
+V_179,1,0.0002,A59 walking towards,0.0068,A59 walking towards
+V_182,1,0.0,A59 walking towards,0.0002,A59 walking towards
+V_184,1,0.0003,A59 walking towards,0.0008,A59 walking towards
+V_185,1,0.0002,A59 walking towards,0.0006,A59 walking towards
+V_186,1,0.0148,A55 hugging,0.0041,A59 walking towards
+V_187,1,0.0015,A59 walking towards,0.0018,A59 walking towards
+V_190,1,0.0014,A60 walking apart,0.0007,A60 walking apart
+V_191,1,0.0001,A59 walking towards,0.0041,A59 walking towards
+V_192,1,0.0057,A60 walking apart,0.008,A59 walking towards
+V_195,1,0.0001,A59 walking towards,0.0004,A59 walking towards
+V_196,1,0.0001,A59 walking towards,0.0006,A59 walking towards
+V_20,1,0.003,A59 walking towards,0.002,A59 walking towards
+V_200,1,0.0004,A59 walking towards,0.0009,A59 walking towards
+V_201,1,0.0005,A59 walking towards,0.0021,A59 walking towards
+V_203,1,0.0005,A59 walking towards,0.0249,A59 walking towards
+V_204,1,0.0044,A59 walking towards,0.0215,A60 walking apart
+V_207,1,0.0015,A59 walking towards,0.0002,A59 walking towards
+V_208,1,0.0005,A59 walking towards,0.0028,A59 walking towards
+V_21,1,0.1531,A59 walking towards,0.1349,A59 walking towards
+V_210,1,0.0019,A59 walking towards,0.0091,A59 walking towards
+V_215,1,0.005,A59 walking towards,0.0034,A59 walking towards
+V_216,1,0.0013,A59 walking towards,0.0004,A59 walking towards
+V_219,1,0.0004,A59 walking towards,0.0012,A59 walking towards
+V_220,1,0.0006,A59 walking towards,0.0014,A59 walking towards
+V_222,1,0.0001,A59 walking towards,0.0002,A59 walking towards
+V_223,1,0.0122,A55 hugging,0.0112,A55 hugging
+V_225,1,0.0002,A59 walking towards,0.0025,A59 walking towards
+V_227,1,0.0007,A59 walking towards,0.0009,A59 walking towards
+V_228,1,0.0016,A59 walking towards,0.0061,A59 walking towards
+V_230,1,0.0033,A55 hugging,0.0163,A60 walking apart
+V_231,1,0.0065,A60 walking apart,0.0055,A59 walking towards
+V_233,1,0.0991,hopping,0.1157,A59 walking towards
+V_237,1,0.0,A59 walking towards,0.0003,A59 walking towards
+V_238,1,0.0032,wear jacket,0.0068,wear jacket
+V_24,1,0.0,A59 walking towards,0.0023,A59 walking towards
+V_241,1,0.0023,A59 walking towards,0.0002,A59 walking towards
+V_242,1,0.0,A59 walking towards,0.0011,A59 walking towards
+V_243,1,0.0081,A59 walking towards,0.0013,A59 walking towards
+V_244,1,0.0012,A59 walking towards,0.0094,A55 hugging
+V_246,1,0.0019,A59 walking towards,0.001,A59 walking towards
+V_247,1,0.001,A59 walking towards,0.0006,A59 walking towards
+V_25,1,0.0003,A59 walking towards,0.0002,A59 walking towards
+V_251,1,0.0036,A59 walking towards,0.013,A59 walking towards
+V_252,1,0.0024,A60 walking apart,0.002,A60 walking apart
+V_254,1,0.0008,A59 walking towards,0.0015,A59 walking towards
+V_255,1,0.0017,A59 walking towards,0.128,A59 walking towards
+V_257,1,0.0091,A59 walking towards,0.0365,wear jacket
+V_258,1,0.0009,A59 walking towards,0.0112,A59 walking towards
+V_260,1,0.0009,A59 walking towards,0.008,A59 walking towards
+V_261,1,0.0003,A59 walking towards,0.0036,A59 walking towards
+V_264,1,0.002,wear jacket,0.0029,wear jacket
+V_265,1,0.0048,A59 walking towards,0.0633,A59 walking towards
+V_266,1,0.1116,A60 walking apart,0.076,A59 walking towards
+V_268,1,0.0195,A55 hugging,0.0462,wear jacket
+V_271,1,0.0041,A59 walking towards,0.0023,A59 walking towards
+V_274,1,0.0018,A59 walking towards,0.0009,A59 walking towards
+V_275,1,0.0016,A60 walking apart,0.0011,A59 walking towards
+V_281,1,0.003,A60 walking apart,0.0008,A59 walking towards
+V_282,1,0.0026,A59 walking towards,0.0002,A59 walking towards
+V_287,1,0.0007,A59 walking towards,0.0001,A59 walking towards
+V_29,1,0.0018,A59 walking towards,0.0217,A59 walking towards
+V_290,1,0.1745,A60 walking apart,0.0343,A59 walking towards
+V_292,1,0.0175,A60 walking apart,0.0032,A60 walking apart
+V_294,1,0.0045,A59 walking towards,0.0041,A59 walking towards
+V_295,1,0.0015,A59 walking towards,0.0005,A59 walking towards
+V_297,1,0.0378,wear jacket,0.0124,A59 walking towards
+V_298,1,0.0009,A59 walking towards,0.0001,A59 walking towards
+V_299,1,0.0024,A59 walking towards,0.0027,falling
+V_30,1,0.0002,A59 walking towards,0.0102,A60 walking apart
+V_302,1,0.0016,A59 walking towards,0.0001,A59 walking towards
+V_305,1,0.0096,A60 walking apart,0.0135,A60 walking apart
+V_307,1,0.0044,A59 walking towards,0.0043,A60 walking apart
+V_308,1,0.0259,A55 hugging,0.0181,A59 walking towards
+V_31,1,0.002,A55 hugging,0.0036,A60 walking apart
+V_310,1,0.0077,A59 walking towards,0.0004,A59 walking towards
+V_311,1,0.0055,A59 walking towards,0.0033,A59 walking towards
+V_312,1,0.0031,A59 walking towards,0.0037,A59 walking towards
+V_314,1,0.0002,A59 walking towards,0.0003,A59 walking towards
+V_315,1,0.0007,A59 walking towards,0.0003,A59 walking towards
+V_32,1,0.0003,A59 walking towards,0.0041,A60 walking apart
+V_321,1,0.0178,A59 walking towards,0.002,A59 walking towards
+V_323,1,0.0081,A60 walking apart,0.0082,A59 walking towards
+V_325,1,0.0154,A60 walking apart,0.0265,A60 walking apart
+V_326,1,0.1007,A60 walking apart,0.0131,A59 walking towards
+V_327,1,0.0128,A59 walking towards,0.0084,A60 walking apart
+V_328,1,0.003,A59 walking towards,0.0007,A59 walking towards
+V_329,1,0.1007,A60 walking apart,0.0131,A59 walking towards
+V_33,1,0.0001,A59 walking towards,0.0039,falling
+V_331,1,0.0052,A59 walking towards,0.0046,brush hair
+V_332,1,0.0093,A59 walking towards,0.0022,A59 walking towards
+V_333,1,0.0012,A59 walking towards,0.0012,A59 walking towards
+V_334,1,0.0001,A59 walking towards,0.0001,A59 walking towards
+V_335,1,0.0039,A59 walking towards,0.0858,A59 walking towards
+V_337,1,0.0002,A59 walking towards,0.0011,A59 walking towards
+V_339,1,0.3188,A52 pushing other person,0.0936,A60 walking apart
+V_34,1,0.0003,A59 walking towards,0.0003,A59 walking towards
+V_341,1,0.0005,A59 walking towards,0.0154,A59 walking towards
+V_343,1,0.0006,A59 walking towards,0.0022,A59 walking towards
+V_345,1,0.0091,A59 walking towards,0.0099,A59 walking towards
+V_346,1,0.0029,A59 walking towards,0.0143,A60 walking apart
+V_349,1,0.0007,A59 walking towards,0.01,A59 walking towards
+V_35,1,0.0139,A60 walking apart,0.0051,A60 walking apart
+V_350,1,0.0006,A59 walking towards,0.0018,A59 walking towards
+V_355,1,0.0029,A59 walking towards,0.0009,A59 walking towards
+V_360,1,0.0034,A59 walking towards,0.001,A60 walking apart
+V_361,1,0.0029,A59 walking towards,0.0008,A59 walking towards
+V_362,1,0.0034,A59 walking towards,0.0103,A59 walking towards
+V_365,1,0.0229,wear jacket,0.0543,A59 walking towards
+V_366,1,0.0293,A59 walking towards,0.0437,A60 walking apart
+V_370,1,0.0003,A59 walking towards,0.0008,A59 walking towards
+V_371,1,0.0004,A59 walking towards,0.0033,A59 walking towards
+V_378,1,0.0008,A59 walking towards,0.0044,A59 walking towards
+V_380,1,0.0016,A59 walking towards,0.0053,A59 walking towards
+V_382,1,0.0013,A59 walking towards,0.0023,A59 walking towards
+V_383,1,0.0013,A59 walking towards,0.0039,A59 walking towards
+V_384,1,0.0107,A60 walking apart,0.0029,A59 walking towards
+V_386,1,0.0068,A60 walking apart,0.0043,A60 walking apart
+V_387,1,0.0016,A59 walking towards,0.0061,A59 walking towards
+V_39,1,0.0008,A59 walking towards,0.0032,A60 walking apart
+V_392,1,0.0067,A59 walking towards,0.0308,A59 walking towards
+V_398,1,0.0003,A59 walking towards,0.0044,A59 walking towards
+V_40,1,0.0001,A59 walking towards,0.0008,A59 walking towards
+V_400,1,0.0039,A59 walking towards,0.002,A60 walking apart
+V_401,1,0.0286,A59 walking towards,0.0613,A59 walking towards
+V_402,1,0.0006,A59 walking towards,0.0048,A60 walking apart
+V_406,1,0.0025,A60 walking apart,0.0002,A59 walking towards
+V_409,1,0.0005,A59 walking towards,0.0713,A59 walking towards
+V_412,1,0.0179,A59 walking towards,0.1021,A59 walking towards
+V_415,1,0.0039,A59 walking towards,0.0002,A59 walking towards
+V_416,1,0.0977,A59 walking towards,0.0584,A59 walking towards
+V_420,1,0.0284,A59 walking towards,0.0005,A59 walking towards
+V_421,1,0.0058,A59 walking towards,0.0017,A59 walking towards
+V_424,1,0.0034,A59 walking towards,0.0051,A59 walking towards
+V_426,1,0.0414,A59 walking towards,0.0225,A59 walking towards
+V_428,1,0.0002,A59 walking towards,0.0063,A59 walking towards
+V_429,1,0.0007,A59 walking towards,0.0004,A59 walking towards
+V_43,1,0.001,A59 walking towards,0.0021,A59 walking towards
+V_430,1,0.0365,A60 walking apart,0.0501,A59 walking towards
+V_431,1,0.0041,A59 walking towards,0.0075,A59 walking towards
+V_432,1,0.0026,A59 walking towards,0.0019,A59 walking towards
+V_433,1,0.0178,jump up,0.0119,A59 walking towards
+V_435,1,0.0056,A59 walking towards,0.0397,A59 walking towards
+V_436,1,0.0031,A59 walking towards,0.0511,A59 walking towards
+V_440,1,0.0011,A59 walking towards,0.0049,A59 walking towards
+V_441,1,0.0001,A59 walking towards,0.0002,A59 walking towards
+V_442,1,0.0004,A59 walking towards,0.0006,A59 walking towards
+V_443,1,0.0003,A59 walking towards,0.0033,A59 walking towards
+V_446,1,0.0061,A59 walking towards,0.0019,A59 walking towards
+V_449,1,0.0103,A59 walking towards,0.0068,A59 walking towards
+V_450,1,0.02,wear jacket,0.0439,wear jacket
+V_451,1,0.0025,A59 walking towards,0.0165,A59 walking towards
+V_452,1,0.0184,wear jacket,0.0841,wear jacket
+V_453,1,0.0255,wear jacket,0.0057,wear jacket
+V_454,1,0.0065,wear jacket,0.0223,A55 hugging
+V_457,1,0.0009,A59 walking towards,0.0015,A59 walking towards
+V_458,1,0.006,A59 walking towards,0.0003,A59 walking towards
+V_459,1,0.0001,A59 walking towards,0.0005,A59 walking towards
+V_46,1,0.0004,A59 walking towards,0.0008,A59 walking towards
+V_460,1,0.0014,A59 walking towards,0.0089,A60 walking apart
+V_462,1,0.0091,A59 walking towards,0.0008,A59 walking towards
+V_467,1,0.0003,A59 walking towards,0.0039,A60 walking apart
+V_469,1,0.0002,A59 walking towards,0.0019,A59 walking towards
+V_47,1,0.0005,A59 walking towards,0.0002,A59 walking towards
+V_470,1,0.0025,A60 walking apart,0.0089,A59 walking towards
+V_471,1,0.0005,A59 walking towards,0.0039,A59 walking towards
+V_473,1,0.0016,A59 walking towards,0.0044,A59 walking towards
+V_475,1,0.0002,A59 walking towards,0.0005,A59 walking towards
+V_477,1,0.0002,A59 walking towards,0.0117,A59 walking towards
+V_479,1,0.0028,A55 hugging,0.0036,A59 walking towards
+V_480,1,0.0319,A60 walking apart,0.0677,A60 walking apart
+V_482,1,0.0002,A59 walking towards,0.0007,A59 walking towards
+V_484,1,0.0002,A59 walking towards,0.0028,A59 walking towards
+V_485,1,0.0005,A59 walking towards,0.0108,A59 walking towards
+V_486,1,0.0069,A60 walking apart,0.0147,A55 hugging
+V_489,1,0.0108,A60 walking apart,0.0082,A59 walking towards
+V_490,1,0.0062,A55 hugging,0.0367,wear jacket
+V_492,1,0.0001,A59 walking towards,0.0003,A59 walking towards
+V_496,1,0.0033,A59 walking towards,0.0213,A59 walking towards
+V_499,1,0.0003,A59 walking towards,0.0013,A59 walking towards
+V_502,1,0.5867,A52 pushing other person,0.6326,A52 pushing other person
+V_504,1,0.003,A59 walking towards,0.0044,falling
+V_508,1,0.0175,A59 walking towards,0.0358,A60 walking apart
+V_509,1,0.063,wear jacket,0.0294,wear jacket
+V_510,1,0.027,A55 hugging,0.037,A55 hugging
+V_511,1,0.0067,A60 walking apart,0.0127,A60 walking apart
+V_514,1,0.0118,A60 walking apart,0.0011,A60 walking apart
+V_516,1,0.004,A59 walking towards,0.0252,A59 walking towards
+V_517,1,0.0023,A59 walking towards,0.036,A59 walking towards
+V_519,1,0.0012,A59 walking towards,0.0013,A59 walking towards
+V_52,1,0.0013,A59 walking towards,0.0002,A59 walking towards
+V_523,1,0.0006,A59 walking towards,0.0008,A59 walking towards
+V_524,1,0.0008,A59 walking towards,0.0008,A59 walking towards
+V_525,1,0.0005,A59 walking towards,0.0022,A59 walking towards
+V_526,1,0.0008,A59 walking towards,0.0014,A59 walking towards
+V_527,1,0.0004,A59 walking towards,0.0036,A59 walking towards
+V_528,1,0.0001,A59 walking towards,0.0019,A59 walking towards
+V_529,1,0.0072,A55 hugging,0.058,A59 walking towards
+V_531,1,0.0007,A59 walking towards,0.0005,A59 walking towards
+V_533,1,0.0005,A59 walking towards,0.0006,A59 walking towards
+V_534,1,0.004,A59 walking towards,0.0018,A59 walking towards
+V_538,1,0.0005,A59 walking towards,0.0018,A59 walking towards
+V_539,1,0.0003,A59 walking towards,0.0009,A59 walking towards
+V_540,1,0.0009,A59 walking towards,0.0001,A59 walking towards
+V_542,1,0.0014,A59 walking towards,0.0002,A59 walking towards
+V_543,1,0.0006,A59 walking towards,0.0097,A59 walking towards
+V_544,1,0.0004,A59 walking towards,0.0006,A59 walking towards
+V_545,1,0.0003,A59 walking towards,0.0043,A59 walking towards
+V_546,1,0.0016,A59 walking towards,0.0021,A59 walking towards
+V_547,1,0.0026,A59 walking towards,0.0006,A59 walking towards
+V_549,1,0.0006,A59 walking towards,0.0004,A59 walking towards
+V_55,1,0.0011,A60 walking apart,0.0024,A60 walking apart
+V_550,1,0.0035,A59 walking towards,0.0001,A59 walking towards
+V_551,1,0.0015,A59 walking towards,0.0004,A59 walking towards
+V_556,1,0.0008,A59 walking towards,0.0022,A59 walking towards
+V_557,1,0.0004,A59 walking towards,0.0005,A59 walking towards
+V_558,1,0.0001,A59 walking towards,0.0009,A59 walking towards
+V_56,1,0.0043,A55 hugging,0.0082,A59 walking towards
+V_560,1,0.0034,A59 walking towards,0.0045,A59 walking towards
+V_561,1,0.0027,A59 walking towards,0.0356,A59 walking towards
+V_563,1,0.0002,A59 walking towards,0.0014,A59 walking towards
+V_566,1,0.0006,A59 walking towards,0.0019,A59 walking towards
+V_567,1,0.0003,A59 walking towards,0.0053,A59 walking towards
+V_568,1,0.0001,A59 walking towards,0.0002,A59 walking towards
+V_569,1,0.0002,A59 walking towards,0.0008,A59 walking towards
+V_57,1,0.0012,A59 walking towards,0.0083,A60 walking apart
+V_570,1,0.049,A59 walking towards,0.0097,A59 walking towards
+V_572,1,0.0002,A59 walking towards,0.004,A59 walking towards
+V_573,1,0.0012,A59 walking towards,0.0022,A59 walking towards
+V_574,1,0.0039,A59 walking towards,0.0009,A59 walking towards
+V_576,1,0.0026,A59 walking towards,0.0011,A59 walking towards
+V_577,1,0.0002,A59 walking towards,0.0004,A59 walking towards
+V_579,1,0.0011,A59 walking towards,0.0024,A60 walking apart
+V_58,1,0.0012,A59 walking towards,0.0003,A59 walking towards
+V_580,1,0.0003,A59 walking towards,0.001,A60 walking apart
+V_581,1,0.0001,A59 walking towards,0.0068,A59 walking towards
+V_582,1,0.001,A59 walking towards,0.0059,A59 walking towards
+V_583,1,0.0007,A59 walking towards,0.0017,A59 walking towards
+V_588,1,0.0001,A59 walking towards,0.0031,A59 walking towards
+V_59,1,0.0,A59 walking towards,0.0007,A59 walking towards
+V_592,1,0.0029,A59 walking towards,0.0001,A59 walking towards
+V_596,1,0.0008,A59 walking towards,0.0004,A59 walking towards
+V_597,1,0.0003,A59 walking towards,0.0011,A59 walking towards
+V_598,1,0.0052,A59 walking towards,0.0048,A59 walking towards
+V_60,1,0.002,A60 walking apart,0.0016,A60 walking apart
+V_600,1,0.0001,A59 walking towards,0.0001,A59 walking towards
+V_603,1,0.0001,A59 walking towards,0.0066,A59 walking towards
+V_605,1,0.0002,A59 walking towards,0.0005,A59 walking towards
+V_606,1,0.0029,A59 walking towards,0.0007,A59 walking towards
+V_61,1,0.0723,A59 walking towards,0.0015,A59 walking towards
+V_611,1,0.0006,A59 walking towards,0.0006,A59 walking towards
+V_612,1,0.0003,A59 walking towards,0.0025,A59 walking towards
+V_614,1,0.0005,A59 walking towards,0.0017,A59 walking towards
+V_616,1,0.0008,A59 walking towards,0.0041,A59 walking towards
+V_621,1,0.0003,A59 walking towards,0.0014,A60 walking apart
+V_622,1,0.0001,A59 walking towards,0.0003,A59 walking towards
+V_624,1,0.0157,A59 walking towards,0.0036,A59 walking towards
+V_625,1,0.0068,A59 walking towards,0.0015,A60 walking apart
+V_627,1,0.0016,A59 walking towards,0.0011,A59 walking towards
+V_628,1,0.0012,A59 walking towards,0.0003,A59 walking towards
+V_629,1,0.0005,A59 walking towards,0.0008,A59 walking towards
+V_631,1,0.0106,A55 hugging,0.0366,A59 walking towards
+V_634,1,0.0146,A59 walking towards,0.0022,A59 walking towards
+V_636,1,0.0012,A59 walking towards,0.0012,A59 walking towards
+V_637,1,0.0034,A59 walking towards,0.0012,A59 walking towards
+V_638,1,0.0067,A60 walking apart,0.0068,A59 walking towards
+V_64,1,0.0002,A59 walking towards,0.0021,A60 walking apart
+V_640,1,0.0172,A60 walking apart,0.0106,A60 walking apart
+V_641,1,0.0642,A59 walking towards,0.0017,A59 walking towards
+V_643,1,0.0444,A59 walking towards,0.0288,A59 walking towards
+V_645,1,0.0273,A59 walking towards,0.0009,A59 walking towards
+V_646,1,0.0045,A59 walking towards,0.0002,A59 walking towards
+V_648,1,0.0091,A59 walking towards,0.0105,A59 walking towards
+V_656,1,0.0013,A59 walking towards,0.0009,A59 walking towards
+V_657,1,0.0009,A60 walking apart,0.0005,A59 walking towards
+V_658,1,0.001,A59 walking towards,0.0014,A59 walking towards
+V_661,1,0.0222,A59 walking towards,0.0932,A59 walking towards
+V_664,1,0.001,A59 walking towards,0.0018,A59 walking towards
+V_666,1,0.0089,A59 walking towards,0.001,A59 walking towards
+V_667,1,0.0052,A59 walking towards,0.0251,A59 walking towards
+V_67,1,0.0001,A59 walking towards,0.0005,A59 walking towards
+V_670,1,0.0021,A59 walking towards,0.0017,A59 walking towards
+V_671,1,0.0046,A60 walking apart,0.004,A60 walking apart
+V_673,1,0.0022,A59 walking towards,0.0051,A59 walking towards
+V_674,1,0.0004,A59 walking towards,0.0004,A59 walking towards
+V_675,1,0.0068,A59 walking towards,0.0015,A59 walking towards
+V_677,1,0.0324,A60 walking apart,0.0619,A60 walking apart
+V_678,1,0.0009,A59 walking towards,0.0014,A59 walking towards
+V_684,1,0.0031,A59 walking towards,0.0063,A59 walking towards
+V_686,1,0.0012,A59 walking towards,0.0035,A60 walking apart
+V_687,1,0.0008,A59 walking towards,0.0005,A59 walking towards
+V_69,1,0.0,A59 walking towards,0.0049,touch head
+V_690,1,0.0192,A59 walking towards,0.013,A59 walking towards
+V_697,1,0.0036,A59 walking towards,0.028,A59 walking towards
+V_698,1,0.0235,A59 walking towards,0.144,A59 walking towards
+V_7,1,0.0727,wear jacket,0.0235,A59 walking towards
+V_70,1,0.0018,A59 walking towards,0.0006,A59 walking towards
+V_701,1,0.0014,A59 walking towards,0.0003,A59 walking towards
+V_705,1,0.009,A59 walking towards,0.0037,A59 walking towards
+V_707,1,0.0005,A59 walking towards,0.0015,A59 walking towards
+V_708,1,0.0015,A59 walking towards,0.0076,A59 walking towards
+V_709,1,0.008,A60 walking apart,0.002,A59 walking towards
+V_71,1,0.0086,A55 hugging,0.0106,A59 walking towards
+V_715,1,0.0036,A59 walking towards,0.0018,A60 walking apart
+V_716,1,0.0005,A59 walking towards,0.0002,A59 walking towards
+V_718,1,0.0003,A59 walking towards,0.0014,A59 walking towards
+V_72,1,0.0002,A59 walking towards,0.0025,A60 walking apart
+V_721,1,0.001,A59 walking towards,0.004,A59 walking towards
+V_723,1,0.0005,A59 walking towards,0.0023,A59 walking towards
+V_726,1,0.0005,A59 walking towards,0.0006,A59 walking towards
+V_727,1,0.0002,A59 walking towards,0.0032,A60 walking apart
+V_729,1,0.005,A60 walking apart,0.0004,A59 walking towards
+V_73,1,0.0005,A59 walking towards,0.0008,A59 walking towards
+V_731,1,0.0009,A59 walking towards,0.0021,A59 walking towards
+V_732,1,0.0006,A60 walking apart,0.0008,A60 walking apart
+V_735,1,0.0045,A55 hugging,0.0016,A60 walking apart
+V_736,1,0.0044,A59 walking towards,0.0094,A55 hugging
+V_743,1,0.0473,A59 walking towards,0.0041,A59 walking towards
+V_746,1,0.0101,A55 hugging,0.0045,A59 walking towards
+V_748,1,0.0193,A59 walking towards,0.016,A60 walking apart
+V_749,1,0.0261,A60 walking apart,0.042,A60 walking apart
+V_75,1,0.0018,A59 walking towards,0.0057,A60 walking apart
+V_750,1,0.0949,A59 walking towards,0.007,A59 walking towards
+V_751,1,0.0001,wear jacket,0.0001,wear jacket
+V_754,1,0.0035,wear jacket,0.0171,A59 walking towards
+V_755,1,0.0217,A59 walking towards,0.0056,A59 walking towards
+V_756,1,0.0192,A60 walking apart,0.0059,A60 walking apart
+V_757,1,0.1503,hopping,0.4026,A52 pushing other person
+V_758,1,0.2184,A60 walking apart,0.0552,A60 walking apart
+V_759,1,0.0506,A60 walking apart,0.0172,A59 walking towards
+V_76,1,0.0009,A59 walking towards,0.0007,A59 walking towards
+V_764,1,0.0213,A59 walking towards,0.0066,A59 walking towards
+V_765,1,0.085,A60 walking apart,0.013,A59 walking towards
+V_766,1,0.0167,wear jacket,0.0347,wear jacket
+V_767,1,0.0258,wear jacket,0.0488,wear jacket
+V_768,1,0.0001,A59 walking towards,0.0054,A59 walking towards
+V_770,1,0.0017,A59 walking towards,0.0077,A59 walking towards
+V_771,1,0.0012,A59 walking towards,0.005,A59 walking towards
+V_772,1,0.0052,A59 walking towards,0.0005,A59 walking towards
+V_773,1,0.0008,A59 walking towards,0.0013,A59 walking towards
+V_774,1,0.012,A55 hugging,0.0236,A60 walking apart
+V_776,1,0.0001,A59 walking towards,0.0024,touch head
+V_777,1,0.0007,A59 walking towards,0.0056,A60 walking apart
+V_779,1,0.0002,A59 walking towards,0.0036,A59 walking towards
+V_78,1,0.0123,A60 walking apart,0.0015,A59 walking towards
+V_780,1,0.0001,A59 walking towards,0.0036,A59 walking towards
+V_781,1,0.0,A59 walking towards,0.0022,A59 walking towards
+V_783,1,0.0003,A59 walking towards,0.0007,A59 walking towards
+V_785,1,0.0009,A59 walking towards,0.0018,A59 walking towards
+V_787,1,0.0041,A59 walking towards,0.0029,A59 walking towards
+V_788,1,0.0036,A59 walking towards,0.0019,A59 walking towards
+V_791,1,0.0004,A59 walking towards,0.0017,A59 walking towards
+V_792,1,0.0013,A59 walking towards,0.0058,A59 walking towards
+V_794,1,0.0003,A59 walking towards,0.0008,A59 walking towards
+V_795,1,0.0015,A59 walking towards,0.0013,A59 walking towards
+V_797,1,0.0183,A55 hugging,0.1539,A55 hugging
+V_798,1,0.346,A52 pushing other person,0.0281,A60 walking apart
+V_799,1,0.0001,A59 walking towards,0.0024,A60 walking apart
+V_801,1,0.0001,A59 walking towards,0.014,A59 walking towards
+V_804,1,0.0059,A59 walking towards,0.0221,A59 walking towards
+V_809,1,0.0006,A59 walking towards,0.0051,A59 walking towards
+V_810,1,0.0003,A59 walking towards,0.0003,A59 walking towards
+V_811,1,0.0016,A59 walking towards,0.0039,A59 walking towards
+V_813,1,0.0013,A59 walking towards,0.0057,A60 walking apart
+V_818,1,0.0025,A59 walking towards,0.0037,A60 walking apart
+V_819,1,0.0009,A59 walking towards,0.0009,A59 walking towards
+V_820,1,0.0012,A59 walking towards,0.0055,A59 walking towards
+V_821,1,0.0027,A59 walking towards,0.0048,A59 walking towards
+V_822,1,0.0041,A55 hugging,0.0031,A59 walking towards
+V_824,1,0.0066,wear jacket,0.0243,A59 walking towards
+V_826,1,0.0001,A59 walking towards,0.0017,A59 walking towards
+V_83,1,0.0024,A59 walking towards,0.0007,A59 walking towards
+V_830,1,0.0001,A59 walking towards,0.0011,A59 walking towards
+V_832,1,0.0009,A59 walking towards,0.0089,A59 walking towards
+V_833,1,0.0151,A59 walking towards,0.0008,A59 walking towards
+V_835,1,0.0008,A60 walking apart,0.0006,A59 walking towards
+V_836,1,0.0015,A59 walking towards,0.0138,A59 walking towards
+V_837,1,0.4057,A52 pushing other person,0.0823,jump up
+V_839,1,0.0124,A59 walking towards,0.0049,A59 walking towards
+V_84,1,0.0035,A55 hugging,0.0064,wear jacket
+V_842,1,0.0019,A59 walking towards,0.004,falling
+V_843,1,0.0011,A59 walking towards,0.0033,A59 walking towards
+V_844,1,0.0078,A55 hugging,0.0075,A55 hugging
+V_845,1,0.0197,A60 walking apart,0.0748,A60 walking apart
+V_846,1,0.0024,A59 walking towards,0.0034,A59 walking towards
+V_849,1,0.0005,A59 walking towards,0.0054,A59 walking towards
+V_85,1,0.0003,A59 walking towards,0.0072,A59 walking towards
+V_850,1,0.0004,A60 walking apart,0.0007,A60 walking apart
+V_855,1,0.0105,A59 walking towards,0.0068,A59 walking towards
+V_857,1,0.0005,A59 walking towards,0.005,A59 walking towards
+V_858,1,0.1217,wear jacket,0.1289,A59 walking towards
+V_859,1,0.0268,A60 walking apart,0.0125,A60 walking apart
+V_861,1,0.0002,A59 walking towards,0.0016,A59 walking towards
+V_863,1,0.0027,A55 hugging,0.019,A59 walking towards
+V_864,1,0.0008,A59 walking towards,0.0047,A59 walking towards
+V_865,1,0.002,A59 walking towards,0.0045,A59 walking towards
+V_867,1,0.0185,A60 walking apart,0.0321,A60 walking apart
+V_868,1,0.0001,A59 walking towards,0.0038,A60 walking apart
+V_869,1,0.0001,A59 walking towards,0.0027,A59 walking towards
+V_87,1,0.0007,A59 walking towards,0.0013,A59 walking towards
+V_870,1,0.022,A59 walking towards,0.1087,A59 walking towards
+V_873,1,0.0014,A59 walking towards,0.0013,A59 walking towards
+V_874,1,0.0011,A59 walking towards,0.0004,A59 walking towards
+V_875,1,0.0002,A59 walking towards,0.0003,A59 walking towards
+V_876,1,0.0018,A59 walking towards,0.0038,A59 walking towards
+V_877,1,0.0057,A60 walking apart,0.001,A59 walking towards
+V_881,1,0.0004,A59 walking towards,0.0036,A59 walking towards
+V_882,1,0.0006,A59 walking towards,0.0014,A59 walking towards
+V_883,1,0.0003,A59 walking towards,0.001,A59 walking towards
+V_885,1,0.0002,A59 walking towards,0.0006,A59 walking towards
+V_886,1,0.0005,A59 walking towards,0.0013,A59 walking towards
+V_890,1,0.0005,A59 walking towards,0.009,A59 walking towards
+V_891,1,0.0005,A59 walking towards,0.0086,A59 walking towards
+V_892,1,0.0001,A59 walking towards,0.0042,A59 walking towards
+V_893,1,0.0039,A59 walking towards,0.0004,A59 walking towards
+V_894,1,0.0062,A59 walking towards,0.0046,A59 walking towards
+V_898,1,0.0142,A60 walking apart,0.0501,A60 walking apart
+V_899,1,0.0012,A59 walking towards,0.0055,A59 walking towards
+V_900,1,0.0091,A59 walking towards,0.0092,A59 walking towards
+V_901,1,0.0031,A59 walking towards,0.0114,A59 walking towards
+V_903,1,0.0004,A59 walking towards,0.0007,A59 walking towards
+V_905,1,0.0052,A60 walking apart,0.0057,A60 walking apart
+V_908,1,0.0008,A59 walking towards,0.0161,A59 walking towards
+V_911,1,0.0004,A59 walking towards,0.0011,A59 walking towards
+V_912,1,0.004,A59 walking towards,0.0056,A59 walking towards
+V_913,1,0.0039,A59 walking towards,0.0046,A59 walking towards
+V_916,1,0.0013,A59 walking towards,0.0024,A59 walking towards
+V_917,1,0.0177,A60 walking apart,0.0076,A59 walking towards
+V_918,1,0.0108,A60 walking apart,0.0087,A59 walking towards
+V_919,1,0.0266,A59 walking towards,0.0317,A60 walking apart
+V_92,1,0.0064,A59 walking towards,0.003,A59 walking towards
+V_920,1,0.0047,A60 walking apart,0.0022,A59 walking towards
+V_922,1,0.0034,A60 walking apart,0.0025,A59 walking towards
+V_924,1,0.0607,A59 walking towards,0.1207,wear jacket
+V_925,1,0.0066,A59 walking towards,0.0364,A59 walking towards
+V_929,1,0.0004,A59 walking towards,0.0003,A59 walking towards
+V_932,1,0.0008,A59 walking towards,0.0152,A59 walking towards
+V_933,1,0.0001,A59 walking towards,0.0031,A59 walking towards
+V_934,1,0.0001,A59 walking towards,0.0006,A59 walking towards
+V_935,1,0.0001,A59 walking towards,0.0014,A59 walking towards
+V_936,1,0.0013,A59 walking towards,0.0081,A59 walking towards
+V_937,1,0.0002,A59 walking towards,0.0011,A59 walking towards
+V_939,1,0.0054,A59 walking towards,0.0262,A59 walking towards
+V_940,1,0.0002,A59 walking towards,0.0023,A59 walking towards
+V_941,1,0.0003,A59 walking towards,0.0083,A59 walking towards
+V_942,1,0.0001,nausea / vomiting,0.0012,nausea / vomiting
+V_943,1,0.0054,A59 walking towards,0.0187,A59 walking towards
+V_944,1,0.0014,A59 walking towards,0.0167,A59 walking towards
+V_945,1,0.0001,A59 walking towards,0.0007,A59 walking towards
+V_946,1,0.0007,A59 walking towards,0.0548,A59 walking towards
+V_947,1,0.0014,A59 walking towards,0.0037,A59 walking towards
+V_948,1,0.0013,A59 walking towards,0.0147,A59 walking towards
+V_949,1,0.0001,A59 walking towards,0.0013,A59 walking towards
+V_951,1,0.0004,A59 walking towards,0.0035,A59 walking towards
+V_952,1,0.0003,A59 walking towards,0.0008,A59 walking towards
+V_954,1,0.0016,A59 walking towards,0.0101,A59 walking towards
+V_955,1,0.0056,wear a shoe,0.0056,A59 walking towards
+V_956,1,0.0068,A59 walking towards,0.0406,A59 walking towards
+V_957,1,0.0026,A55 hugging,0.0381,A59 walking towards
+V_958,1,0.0019,A59 walking towards,0.0051,A59 walking towards
+V_960,1,0.0044,A59 walking towards,0.0088,A59 walking towards
+V_961,1,0.0041,A59 walking towards,0.0328,A59 walking towards
+V_962,1,0.0011,A59 walking towards,0.0039,A59 walking towards
+V_965,1,0.0004,A59 walking towards,0.0025,A60 walking apart
+V_966,1,0.001,A60 walking apart,0.0068,A60 walking apart
+V_967,1,0.0023,A59 walking towards,0.0012,A59 walking towards
+V_969,1,0.0004,A59 walking towards,0.0018,A59 walking towards
+V_972,1,0.0051,A59 walking towards,0.0048,A60 walking apart
+V_976,1,0.0037,A60 walking apart,0.0038,A60 walking apart
+V_98,1,0.0002,A59 walking towards,0.0033,A59 walking towards
+V_980,1,0.0029,A55 hugging,0.0015,A59 walking towards
+V_981,1,0.0104,A60 walking apart,0.0246,A59 walking towards
+V_983,1,0.0038,A59 walking towards,0.0059,A59 walking towards
+V_984,1,0.0166,A60 walking apart,0.006,A59 walking towards
+V_985,1,0.0069,A59 walking towards,0.0067,A59 walking towards
+V_986,1,0.0016,A59 walking towards,0.0015,A60 walking apart
+V_988,1,0.0001,A59 walking towards,0.002,A59 walking towards
+V_989,1,0.0015,A59 walking towards,0.0021,A59 walking towards
+V_990,1,0.0001,A59 walking towards,0.0034,A59 walking towards
+V_991,1,0.0006,A59 walking towards,0.0179,A59 walking towards
+V_993,1,0.0054,A59 walking towards,0.0007,A59 walking towards
+V_996,1,0.0004,A59 walking towards,0.0047,A60 walking apart
+NV_10,0,0.0017,A59 walking towards,0.004,A59 walking towards
+NV_100,0,0.0013,A59 walking towards,0.0009,A59 walking towards
+NV_103,0,0.0398,A55 hugging,0.0091,A59 walking towards
+NV_105,0,0.0008,A59 walking towards,0.0076,A59 walking towards
+NV_106,0,0.0062,A59 walking towards,0.0143,wear jacket
+NV_107,0,0.0028,A59 walking towards,0.0102,wear jacket
+NV_109,0,0.0003,A59 walking towards,0.0067,A60 walking apart
+NV_112,0,0.0087,A59 walking towards,0.0057,A59 walking towards
+NV_114,0,0.0066,A59 walking towards,0.0103,A59 walking towards
+NV_118,0,0.0019,A59 walking towards,0.005,A59 walking towards
+NV_12,0,0.0019,brush teeth,0.0019,A59 walking towards
+NV_120,0,0.0038,A59 walking towards,0.0013,A60 walking apart
+NV_121,0,0.0001,A59 walking towards,0.0058,A59 walking towards
+NV_123,0,0.0014,nausea / vomiting,0.0,kicking something
+NV_124,0,0.0021,A59 walking towards,0.0152,use a fan
+NV_126,0,0.0015,play with phone,0.0038,play with phone
+NV_129,0,0.0001,A59 walking towards,0.0004,staggering
+NV_133,0,0.0022,touch head,0.0073,A59 walking towards
+NV_134,0,0.0001,A59 walking towards,0.0083,A59 walking towards
+NV_135,0,0.0015,nausea / vomiting,0.0002,staggering
+NV_140,0,0.0006,hopping,0.0063,hopping
+NV_141,0,0.009,A55 hugging,0.02,A59 walking towards
+NV_142,0,0.0044,A59 walking towards,0.0221,A59 walking towards
+NV_143,0,0.0009,A59 walking towards,0.0011,A59 walking towards
+NV_147,0,0.0166,touch neck,0.0062,A59 walking towards
+NV_148,0,0.0032,A55 hugging,0.0105,falling
+NV_151,0,0.0019,A59 walking towards,0.0068,A59 walking towards
+NV_153,0,0.0008,A60 walking apart,0.0035,A59 walking towards
+NV_154,0,0.0187,A59 walking towards,0.0064,falling
+NV_155,0,0.0195,A60 walking apart,0.0009,A60 walking apart
+NV_156,0,0.0128,A59 walking towards,0.0025,A59 walking towards
+NV_158,0,0.0105,A55 hugging,0.0312,A59 walking towards
+NV_160,0,0.0056,A59 walking towards,0.0029,A59 walking towards
+NV_163,0,0.0,hopping,0.0037,hopping
+NV_165,0,0.0159,A55 hugging,0.008,A59 walking towards
+NV_169,0,0.0001,A59 walking towards,0.0005,A59 walking towards
+NV_17,0,0.0047,brush hair,0.0035,wear jacket
+NV_171,0,0.0367,A59 walking towards,0.0192,A59 walking towards
+NV_174,0,0.0006,A59 walking towards,0.003,A59 walking towards
+NV_179,0,0.0008,A59 walking towards,0.0067,falling
+NV_180,0,0.0173,A59 walking towards,0.0046,A60 walking apart
+NV_181,0,0.0059,A55 hugging,0.017,hopping
+NV_183,0,0.0055,A55 hugging,0.0244,wear jacket
+NV_184,0,0.0033,A59 walking towards,0.0287,cheer up
+NV_186,0,0.0333,A59 walking towards,0.0229,A59 walking towards
+NV_189,0,0.018,A53 pat on back,0.0268,A55 hugging
+NV_19,0,0.0019,A59 walking towards,0.0053,A59 walking towards
+NV_190,0,0.002,A59 walking towards,0.0027,A59 walking towards
+NV_194,0,0.0088,touch head,0.0053,touch head
+NV_195,0,0.0004,A59 walking towards,0.0005,A59 walking towards
+NV_196,0,0.0129,A59 walking towards,0.007,A59 walking towards
+NV_198,0,0.0112,nausea / vomiting,0.0079,nausea / vomiting
+NV_200,0,0.0081,jump up,0.0106,A59 walking towards
+NV_205,0,0.0064,A55 hugging,0.0026,A60 walking apart
+NV_207,0,0.0032,nausea / vomiting,0.0039,brush hair
+NV_209,0,0.0267,staggering,0.0257,staggering
+NV_21,0,0.0072,A59 walking towards,0.0373,A59 walking towards
+NV_215,0,0.017,hopping,0.0138,hopping
+NV_216,0,0.0182,hopping,0.0576,A59 walking towards
+NV_218,0,0.0009,hopping,0.0042,hopping
+NV_219,0,0.045,A59 walking towards,0.03,wear jacket
+NV_22,0,0.0042,A59 walking towards,0.002,A59 walking towards
+NV_220,0,0.2516,wear jacket,0.2596,hopping
+NV_221,0,0.0077,throw,0.009,throw
+NV_222,0,0.0037,wear jacket,0.0048,wear jacket
+NV_224,0,0.0011,A59 walking towards,0.2119,cheer up
+NV_225,0,0.0008,A59 walking towards,0.1407,cheer up
+NV_226,0,0.003,A59 walking towards,0.0044,falling
+NV_227,0,0.0092,A59 walking towards,0.0321,cheer up
+NV_228,0,0.0081,wear jacket,0.0121,throw
+NV_229,0,0.0016,A59 walking towards,0.0034,A59 walking towards
+NV_230,0,0.0705,A59 walking towards,0.0414,cheer up
+NV_233,0,0.0123,A55 hugging,0.06,A59 walking towards
+NV_236,0,0.0096,A59 walking towards,0.0298,A59 walking towards
+NV_237,0,0.0021,A59 walking towards,0.0024,A59 walking towards
+NV_238,0,0.0,use a fan,0.0,use a fan
+NV_241,0,0.1612,A57 touch other's pocket,0.2458,A57 touch other's pocket
+NV_243,0,0.0051,A56 giving object,0.005,A56 giving object
+NV_244,0,0.2078,A59 walking towards,0.4337,A51 kicking other person
+NV_248,0,0.2537,A57 touch other's pocket,0.2237,A57 touch other's pocket
+NV_251,0,0.3902,A52 pushing other person,0.4613,A52 pushing other person
+NV_252,0,0.0016,play with phone,0.0029,brush teeth
+NV_254,0,0.0008,touch neck,0.0024,A59 walking towards
+NV_255,0,0.002,A59 walking towards,0.0047,A59 walking towards
+NV_258,0,0.0312,A59 walking towards,0.0858,A59 walking towards
+NV_259,0,0.1791,take off jacket,0.1354,take off jacket
+NV_26,0,0.0028,A60 walking apart,0.0009,A60 walking apart
+NV_261,0,0.0067,A59 walking towards,0.0074,A59 walking towards
+NV_269,0,0.0006,A59 walking towards,0.0015,A60 walking apart
+NV_27,0,0.0019,A59 walking towards,0.0005,A59 walking towards
+NV_271,0,0.0367,A57 touch other's pocket,0.0092,A57 touch other's pocket
+NV_273,0,0.027,cheer up,0.0174,cheer up
+NV_274,0,0.0002,hopping,0.0095,hopping
+NV_275,0,0.079,hopping,0.0234,A59 walking towards
+NV_278,0,0.2639,A52 pushing other person,0.3863,A52 pushing other person
+NV_279,0,0.1373,A55 hugging,0.093,cheer up
+NV_280,0,0.0001,A59 walking towards,0.0014,A59 walking towards
+NV_282,0,0.1816,A59 walking towards,0.1934,cheer up
+NV_283,0,0.4213,A52 pushing other person,0.2977,cheer up
+NV_284,0,0.0695,A55 hugging,0.0474,cheer up
+NV_285,0,0.001,A59 walking towards,0.0003,A59 walking towards
+NV_287,0,0.0177,A60 walking apart,0.0033,A60 walking apart
+NV_29,0,0.0012,A59 walking towards,0.0043,A60 walking apart
+NV_290,0,0.0112,A60 walking apart,0.0029,A60 walking apart
+NV_292,0,0.0037,A59 walking towards,0.015,A59 walking towards
+NV_293,0,0.0042,A59 walking towards,0.0059,A59 walking towards
+NV_294,0,0.0004,A59 walking towards,0.0001,A59 walking towards
+NV_295,0,0.0001,A59 walking towards,0.0061,A59 walking towards
+NV_296,0,0.0002,A59 walking towards,0.0026,A60 walking apart
+NV_297,0,0.0179,A55 hugging,0.0064,A57 touch other's pocket
+NV_298,0,0.0179,A55 hugging,0.0064,A57 touch other's pocket
+NV_3,0,0.0583,A55 hugging,0.0209,A60 walking apart
+NV_300,0,0.0239,A59 walking towards,0.0056,hopping
+NV_301,0,0.0042,cheer up,0.0029,cheer up
+NV_302,0,0.01,staggering,0.0065,staggering
+NV_304,0,0.0052,jump up,0.0059,jump up
+NV_307,0,0.0,taking a selfie,0.0,taking a selfie
+NV_308,0,0.0005,cheer up,0.0005,cheer up
+NV_309,0,0.0005,clapping,0.0016,clapping
+NV_311,0,0.0045,A57 touch other's pocket,0.0005,A59 walking towards
+NV_312,0,0.0067,staggering,0.0025,falling
+NV_313,0,0.0033,A59 walking towards,0.0137,A59 walking towards
+NV_314,0,0.0109,A59 walking towards,0.0043,A60 walking apart
+NV_316,0,0.0057,A59 walking towards,0.0037,A60 walking apart
+NV_317,0,0.0006,A59 walking towards,0.0048,A60 walking apart
+NV_318,0,0.0069,A55 hugging,0.0025,A60 walking apart
+NV_319,0,0.0007,A59 walking towards,0.005,A60 walking apart
+NV_320,0,0.0027,A59 walking towards,0.0094,A59 walking towards
+NV_325,0,0.005,A59 walking towards,0.002,A59 walking towards
+NV_328,0,0.0028,A59 walking towards,0.0028,A59 walking towards
+NV_329,0,0.0048,rub two hands,0.0045,rub two hands
+NV_33,0,0.0076,A55 hugging,0.0067,A59 walking towards
+NV_331,0,0.0142,A60 walking apart,0.0232,A60 walking apart
+NV_332,0,0.0016,nausea / vomiting,0.0001,staggering
+NV_333,0,0.0017,A60 walking apart,0.0013,A60 walking apart
+NV_334,0,0.0004,brush hair,0.0006,brush hair
+NV_336,0,0.0041,pick up,0.0035,pick up
+NV_34,0,0.0015,A59 walking towards,0.0034,A59 walking towards
+NV_346,0,0.0002,A59 walking towards,0.0088,falling
+NV_349,0,0.0004,A59 walking towards,0.0026,A59 walking towards
+NV_35,0,0.0103,cheer up,0.0089,cheer up
+NV_353,0,0.0008,A59 walking towards,0.002,A59 walking towards
+NV_354,0,0.0094,wipe face,0.0088,wipe face
+NV_355,0,0.0054,staggering,0.0074,staggering
+NV_356,0,0.0276,A60 walking apart,0.0018,A60 walking apart
+NV_357,0,0.0884,brush hair,0.0118,A60 walking apart
+NV_358,0,0.0095,staggering,0.0173,staggering
+NV_359,0,0.0018,staggering,0.0018,staggering
+NV_360,0,0.0001,wear a shoe,0.0001,wear a shoe
+NV_367,0,0.0007,A59 walking towards,0.0001,A59 walking towards
+NV_37,0,0.0056,A59 walking towards,0.0604,A60 walking apart
+NV_372,0,0.4331,A51 kicking other person,0.0091,A59 walking towards
+NV_374,0,0.0702,A59 walking towards,0.0374,A59 walking towards
+NV_377,0,0.002,A55 hugging,0.0003,A59 walking towards
+NV_379,0,0.0029,wipe face,0.0038,wipe face
+NV_380,0,0.0005,use a fan,0.0,use a fan
+NV_382,0,0.0026,wipe face,0.0044,use a fan
+NV_383,0,0.0005,A59 walking towards,0.0044,A59 walking towards
+NV_384,0,0.0229,A59 walking towards,0.0064,A59 walking towards
+NV_386,0,0.0004,A59 walking towards,0.002,A59 walking towards
+NV_388,0,0.0012,A59 walking towards,0.0037,A59 walking towards
+NV_389,0,0.0091,A59 walking towards,0.0126,A54 point finger at other
+NV_39,0,0.0006,A59 walking towards,0.0016,A59 walking towards
+NV_390,0,0.0178,A54 point finger at other,0.0369,A54 point finger at other
+NV_392,0,0.0006,A59 walking towards,0.0031,A60 walking apart
+NV_394,0,0.0006,staggering,0.0011,falling
+NV_398,0,0.0014,hopping,0.0043,staggering
+NV_399,0,0.0196,staggering,0.0127,staggering
+NV_4,0,0.0081,A59 walking towards,0.0197,wear jacket
+NV_403,0,0.0072,A55 hugging,0.0067,stand up
+NV_405,0,0.0093,A59 walking towards,0.0055,A59 walking towards
+NV_406,0,0.0025,wear jacket,0.0089,take off jacket
+NV_408,0,0.0,A59 walking towards,0.065,A59 walking towards
+NV_409,0,0.0005,A59 walking towards,0.0182,A59 walking towards
+NV_41,0,0.0032,A55 hugging,0.0137,A60 walking apart
+NV_411,0,0.0014,touch neck,0.0021,falling
+NV_413,0,0.0016,touch neck,0.0012,falling
+NV_414,0,0.0025,staggering,0.0022,staggering
+NV_417,0,0.0109,phone call,0.0081,wear a shoe
+NV_418,0,0.7079,A52 pushing other person,0.4212,A59 walking towards
+NV_421,0,0.0026,touch back,0.0086,play with phone
+NV_424,0,0.0032,A59 walking towards,0.0081,A59 walking towards
+NV_425,0,0.0032,A59 walking towards,0.0011,A59 walking towards
+NV_426,0,0.2165,A60 walking apart,0.571,A51 kicking other person
+NV_429,0,0.5391,A51 kicking other person,0.3902,A51 kicking other person
+NV_43,0,0.1868,A60 walking apart,0.1022,A60 walking apart
+NV_430,0,0.0147,A57 touch other's pocket,0.0006,A57 touch other's pocket
+NV_432,0,0.3524,A51 kicking other person,0.5944,A51 kicking other person
+NV_434,0,0.0798,A54 point finger at other,0.1747,A57 touch other's pocket
+NV_436,0,0.2446,A57 touch other's pocket,0.2442,A57 touch other's pocket
+NV_437,0,0.2423,A57 touch other's pocket,0.725,A51 kicking other person
+NV_439,0,0.0002,A59 walking towards,0.0002,A59 walking towards
+NV_440,0,0.021,A59 walking towards,0.0088,A59 walking towards
+NV_441,0,0.145,A57 touch other's pocket,0.1037,A60 walking apart
+NV_442,0,0.1011,A57 touch other's pocket,0.0033,A60 walking apart
+NV_444,0,0.0001,play with phone,0.0001,play with phone
+NV_446,0,0.0798,A59 walking towards,0.0538,A60 walking apart
+NV_447,0,0.1517,A55 hugging,0.0518,A55 hugging
+NV_448,0,0.0004,A59 walking towards,0.0021,A59 walking towards
+NV_45,0,0.0002,A59 walking towards,0.0007,falling
+NV_450,0,0.0481,A57 touch other's pocket,0.0447,A57 touch other's pocket
+NV_451,0,0.1486,hopping,0.1664,hopping
+NV_454,0,0.0016,A55 hugging,0.0007,A59 walking towards
+NV_458,0,0.002,use a fan,0.001,use a fan
+NV_459,0,0.0037,A59 walking towards,0.0081,A59 walking towards
+NV_46,0,0.0051,A55 hugging,0.0245,A60 walking apart
+NV_460,0,0.0014,A59 walking towards,0.0134,A59 walking towards
+NV_461,0,0.0015,nausea / vomiting,0.0028,touch head
+NV_462,0,0.0002,A59 walking towards,0.0019,staggering
+NV_465,0,0.0009,A59 walking towards,0.0257,falling
+NV_466,0,0.0004,A59 walking towards,0.0005,A59 walking towards
+NV_467,0,0.0037,A59 walking towards,0.0096,falling
+NV_468,0,0.0006,A59 walking towards,0.0049,A59 walking towards
+NV_471,0,0.0002,A59 walking towards,0.005,A59 walking towards
+NV_473,0,0.0014,A59 walking towards,0.0023,A59 walking towards
+NV_478,0,0.0011,A59 walking towards,0.0025,A59 walking towards
+NV_479,0,0.0002,A59 walking towards,0.0011,staggering
+NV_481,0,0.0028,nausea / vomiting,0.0022,falling
+NV_484,0,0.0009,A59 walking towards,0.0013,A59 walking towards
+NV_485,0,0.0017,nausea / vomiting,0.0008,staggering
+NV_486,0,0.0006,A59 walking towards,0.0036,staggering
+NV_492,0,0.0005,A59 walking towards,0.0012,A59 walking towards
+NV_495,0,0.0,A59 walking towards,0.0001,A59 walking towards
+NV_497,0,0.0393,A59 walking towards,0.0132,A59 walking towards
+NV_504,0,0.0302,A57 touch other's pocket,0.0977,A59 walking towards
+NV_505,0,0.0021,A59 walking towards,0.012,falling
+NV_506,0,0.0158,brush hair,0.0206,A55 hugging
+NV_507,0,0.0141,brush hair,0.0686,A53 pat on back
+NV_508,0,0.0067,A55 hugging,0.0085,A59 walking towards
+NV_51,0,0.0127,kicking something,0.0133,kicking something
+NV_510,0,0.0028,reading,0.0118,reading
+NV_512,0,0.0135,A59 walking towards,0.0032,touch back
+NV_514,0,0.0063,A55 hugging,0.011,touch back
+NV_515,0,0.0032,A59 walking towards,0.0155,A60 walking apart
+NV_517,0,0.0397,A55 hugging,0.009,A60 walking apart
+NV_518,0,0.0122,A59 walking towards,0.0287,A60 walking apart
+NV_522,0,0.0131,A59 walking towards,0.0228,A59 walking towards
+NV_523,0,0.0151,A59 walking towards,0.0467,A60 walking apart
+NV_526,0,0.0033,A59 walking towards,0.0054,A60 walking apart
+NV_527,0,0.0093,A59 walking towards,0.0078,A60 walking apart
+NV_528,0,0.0146,A59 walking towards,0.0097,A60 walking apart
+NV_529,0,0.0055,A56 giving object,0.0069,A59 walking towards
+NV_530,0,0.0002,A59 walking towards,0.0007,A59 walking towards
+NV_531,0,0.0005,A59 walking towards,0.0036,A59 walking towards
+NV_532,0,0.0079,touch back,0.0036,touch back
+NV_534,0,0.1739,A55 hugging,0.0591,A59 walking towards
+NV_535,0,0.0984,A57 touch other's pocket,0.0231,A60 walking apart
+NV_536,0,0.0057,A59 walking towards,0.0121,A59 walking towards
+NV_537,0,0.0209,A59 walking towards,0.0463,A60 walking apart
+NV_538,0,0.0002,A59 walking towards,0.005,wear a shoe
+NV_54,0,0.002,nausea / vomiting,0.0004,staggering
+NV_541,0,0.0422,A55 hugging,0.0289,A55 hugging
+NV_542,0,0.0187,A60 walking apart,0.0119,A60 walking apart
+NV_544,0,0.0341,A60 walking apart,0.004,A60 walking apart
+NV_545,0,0.0089,A59 walking towards,0.0015,A59 walking towards
+NV_549,0,0.006,A59 walking towards,0.0013,A59 walking towards
+NV_55,0,0.0003,A59 walking towards,0.0019,staggering
+NV_551,0,0.0003,A59 walking towards,0.0002,A59 walking towards
+NV_555,0,0.0051,A59 walking towards,0.002,A59 walking towards
+NV_557,0,0.0121,A59 walking towards,0.0095,A59 walking towards
+NV_558,0,0.0325,A59 walking towards,0.0527,A59 walking towards
+NV_559,0,0.0011,A59 walking towards,0.001,A59 walking towards
+NV_56,0,0.0003,A59 walking towards,0.0009,staggering
+NV_561,0,0.0003,A59 walking towards,0.0142,A59 walking towards
+NV_563,0,0.0015,A59 walking towards,0.0009,A59 walking towards
+NV_566,0,0.0484,A59 walking towards,0.0086,A59 walking towards
+NV_567,0,0.0039,A59 walking towards,0.0065,A59 walking towards
+NV_568,0,0.0123,A60 walking apart,0.0049,A59 walking towards
+NV_569,0,0.0009,A59 walking towards,0.0011,A59 walking towards
+NV_57,0,0.0002,A59 walking towards,0.0011,touch head
+NV_572,0,0.0006,A59 walking towards,0.0003,A59 walking towards
+NV_576,0,0.0044,A59 walking towards,0.0095,A60 walking apart
+NV_580,0,0.0017,A59 walking towards,0.0014,A59 walking towards
+NV_582,0,0.0028,A60 walking apart,0.0028,A59 walking towards
+NV_583,0,0.0046,A59 walking towards,0.0008,A59 walking towards
+NV_585,0,0.0001,A59 walking towards,0.0005,A59 walking towards
+NV_586,0,0.0094,A60 walking apart,0.0038,A60 walking apart
+NV_588,0,0.0076,A59 walking towards,0.0012,A59 walking towards
+NV_589,0,0.0652,A60 walking apart,0.0795,A60 walking apart
+NV_590,0,0.0016,A59 walking towards,0.0003,A59 walking towards
+NV_592,0,0.0055,A60 walking apart,0.0173,A60 walking apart
+NV_594,0,0.0002,A59 walking towards,0.0002,A59 walking towards
+NV_595,0,0.0017,touch neck,0.0031,wear a shoe
+NV_596,0,0.0001,A59 walking towards,0.0003,A59 walking towards
+NV_597,0,0.0005,A59 walking towards,0.0019,A59 walking towards
+NV_598,0,0.0027,A59 walking towards,0.0003,A59 walking towards
+NV_599,0,0.0013,A59 walking towards,0.0018,falling
+NV_60,0,0.0005,A59 walking towards,0.0013,staggering
+NV_601,0,0.0002,A59 walking towards,0.0069,A59 walking towards
+NV_602,0,0.0021,A59 walking towards,0.0053,touch head
+NV_605,0,0.0052,A59 walking towards,0.0026,A59 walking towards
+NV_606,0,0.001,A55 hugging,0.001,A59 walking towards
+NV_611,0,0.0003,brush hair,0.0023,A59 walking towards
+NV_613,0,0.0188,A59 walking towards,0.0241,A59 walking towards
+NV_615,0,0.0069,A59 walking towards,0.0042,A59 walking towards
+NV_616,0,0.0045,A59 walking towards,0.0087,A59 walking towards
+NV_618,0,0.0052,A59 walking towards,0.0007,A59 walking towards
+NV_619,0,0.0009,A59 walking towards,0.0056,falling
+NV_622,0,0.0572,A55 hugging,0.1302,A59 walking towards
+NV_623,0,0.003,A59 walking towards,0.0057,clapping
+NV_624,0,0.0367,A59 walking towards,0.0012,A59 walking towards
+NV_63,0,0.0031,wear a shoe,0.0057,touch head
+NV_632,0,0.0023,wipe face,0.0021,touch head
+NV_633,0,0.0032,A59 walking towards,0.0052,A59 walking towards
+NV_636,0,0.0008,A59 walking towards,0.0024,A59 walking towards
+NV_640,0,0.0007,wipe face,0.0027,take off a shoe
+NV_643,0,0.0009,wipe face,0.0024,touch head
+NV_646,0,0.0004,A59 walking towards,0.0041,A59 walking towards
+NV_647,0,0.0005,A59 walking towards,0.003,A59 walking towards
+NV_648,0,0.0391,A53 pat on back,0.0739,A57 touch other's pocket
+NV_649,0,0.0023,wipe face,0.0022,A59 walking towards
+NV_650,0,0.0142,A59 walking towards,0.0117,A59 walking towards
+NV_653,0,0.0011,A59 walking towards,0.0032,A59 walking towards
+NV_654,0,0.0002,A59 walking towards,0.0005,A59 walking towards
+NV_658,0,0.0011,A59 walking towards,0.0036,A59 walking towards
+NV_66,0,0.0001,A59 walking towards,0.0093,falling
+NV_660,0,0.0018,A59 walking towards,0.004,A59 walking towards
+NV_661,0,0.0085,A59 walking towards,0.0243,A59 walking towards
+NV_662,0,0.0008,A59 walking towards,0.0055,touch head
+NV_664,0,0.0002,A59 walking towards,0.0055,A59 walking towards
+NV_666,0,0.0002,A59 walking towards,0.001,A59 walking towards
+NV_669,0,0.021,A59 walking towards,0.0196,A59 walking towards
+NV_67,0,0.0009,A59 walking towards,0.0006,A59 walking towards
+NV_670,0,0.0049,A59 walking towards,0.0265,A59 walking towards
+NV_671,0,0.0068,A59 walking towards,0.0014,A59 walking towards
+NV_672,0,0.0006,A59 walking towards,0.0023,A59 walking towards
+NV_675,0,0.0005,A59 walking towards,0.0035,touch chest
+NV_676,0,0.0836,A57 touch other's pocket,0.0186,A55 hugging
+NV_677,0,0.0221,A59 walking towards,0.0199,A59 walking towards
+NV_678,0,0.001,A59 walking towards,0.0001,A59 walking towards
+NV_68,0,0.0,A59 walking towards,0.0008,A60 walking apart
+NV_681,0,0.0156,A55 hugging,0.0126,A60 walking apart
+NV_682,0,0.008,A59 walking towards,0.0122,take off a shoe
+NV_684,0,0.0082,drop,0.0018,falling
+NV_686,0,0.0478,A57 touch other's pocket,0.0693,A59 walking towards
+NV_687,0,0.0018,A59 walking towards,0.0031,A59 walking towards
+NV_688,0,0.0003,A59 walking towards,0.0004,A59 walking towards
+NV_691,0,0.0443,A59 walking towards,0.0161,A60 walking apart
+NV_694,0,0.0002,A59 walking towards,0.0005,A59 walking towards
+NV_695,0,0.0052,A55 hugging,0.0068,falling
+NV_696,0,0.1649,A57 touch other's pocket,0.299,A56 giving object
+NV_697,0,0.0089,A57 touch other's pocket,0.0067,A59 walking towards
+NV_7,0,0.0795,A60 walking apart,0.1865,A59 walking towards
+NV_700,0,0.0069,A55 hugging,0.0011,A59 walking towards
+NV_701,0,0.0,A59 walking towards,0.0008,A59 walking towards
+NV_707,0,0.0002,A59 walking towards,0.0004,A59 walking towards
+NV_710,0,0.1034,A59 walking towards,0.0903,A59 walking towards
+NV_714,0,0.0037,A55 hugging,0.0077,A59 walking towards
+NV_715,0,0.0029,A59 walking towards,0.016,A59 walking towards
+NV_716,0,0.0016,A55 hugging,0.0008,A59 walking towards
+NV_717,0,0.0021,A59 walking towards,0.0013,A59 walking towards
+NV_718,0,0.0009,A59 walking towards,0.0139,A59 walking towards
+NV_720,0,0.0014,A59 walking towards,0.0099,A59 walking towards
+NV_721,0,0.0177,A59 walking towards,0.0043,A59 walking towards
+NV_722,0,0.0021,A59 walking towards,0.008,A59 walking towards
+NV_723,0,0.0003,A59 walking towards,0.0001,A59 walking towards
+NV_725,0,0.0018,brush hair,0.0048,use a fan
+NV_726,0,0.0019,use a fan,0.0037,wear a shoe
+NV_73,0,0.0047,use a fan,0.0042,use a fan
+NV_731,0,0.0017,A59 walking towards,0.0143,A60 walking apart
+NV_734,0,0.0043,A59 walking towards,0.0225,A59 walking towards
+NV_735,0,0.0121,A59 walking towards,0.0068,wear jacket
+NV_736,0,0.0066,A59 walking towards,0.0193,A59 walking towards
+NV_738,0,0.0003,A59 walking towards,0.0013,A59 walking towards
+NV_740,0,0.0058,shake head,0.0046,wear a shoe
+NV_743,0,0.0008,wipe face,0.0019,take off a shoe
+NV_748,0,0.0013,wipe face,0.0034,wipe face
+NV_749,0,0.0002,A59 walking towards,0.0018,A59 walking towards
+NV_750,0,0.0037,nausea / vomiting,0.0138,nausea / vomiting
+NV_752,0,0.0056,A59 walking towards,0.0184,phone call
+NV_753,0,0.0024,wear jacket,0.0023,wear jacket
+NV_754,0,0.0166,A55 hugging,0.0733,wear jacket
+NV_756,0,0.0038,A59 walking towards,0.009,wear jacket
+NV_757,0,0.0111,wear jacket,0.0097,wear jacket
+NV_759,0,0.0009,nausea / vomiting,0.0039,nausea / vomiting
+NV_76,0,0.0001,A59 walking towards,0.0045,touch head
+NV_760,0,0.0022,nausea / vomiting,0.0134,wear jacket
+NV_761,0,0.002,nausea / vomiting,0.0003,staggering
+NV_762,0,0.0004,A59 walking towards,0.0004,A60 walking apart
+NV_763,0,0.0011,A59 walking towards,0.0016,A60 walking apart
+NV_764,0,0.0083,A59 walking towards,0.015,A60 walking apart
+NV_766,0,0.0003,A59 walking towards,0.0049,touch head
+NV_77,0,0.0079,A59 walking towards,0.0065,A59 walking towards
+NV_773,0,0.0018,use a fan,0.0044,use a fan
+NV_776,0,0.0007,A59 walking towards,0.0029,A59 walking towards
+NV_778,0,0.1009,A58 handshaking,0.0608,A57 touch other's pocket
+NV_78,0,0.0002,A59 walking towards,0.002,touch head
+NV_783,0,0.0352,use a fan,0.0169,use a fan
+NV_784,0,0.0034,A59 walking towards,0.0074,A59 walking towards
+NV_785,0,0.0257,A59 walking towards,0.0384,A59 walking towards
+NV_787,0,0.0236,A59 walking towards,0.0111,A60 walking apart
+NV_789,0,0.0001,A59 walking towards,0.0004,A59 walking towards
+NV_79,0,0.0178,staggering,0.0097,wear a shoe
+NV_790,0,0.1334,A59 walking towards,0.0965,A59 walking towards
+NV_791,0,0.2393,A59 walking towards,0.0506,A59 walking towards
+NV_792,0,0.0376,hopping,0.0397,hopping
+NV_793,0,0.0009,A59 walking towards,0.0053,A59 walking towards
+NV_794,0,0.0062,A57 touch other's pocket,0.0149,reading
+NV_795,0,0.0172,A59 walking towards,0.0069,A59 walking towards
+NV_796,0,0.0207,A57 touch other's pocket,0.0069,A59 walking towards
+NV_797,0,0.0549,A60 walking apart,0.025,A60 walking apart
+NV_799,0,0.0074,A59 walking towards,0.002,A60 walking apart
+NV_8,0,0.0008,A59 walking towards,0.0142,A59 walking towards
+NV_80,0,0.0013,A59 walking towards,0.0004,A59 walking towards
+NV_803,0,0.009,A59 walking towards,0.0509,A59 walking towards
+NV_809,0,0.0034,staggering,0.0032,staggering
+NV_813,0,0.0217,A57 touch other's pocket,0.0789,A57 touch other's pocket
+NV_814,0,0.3259,A56 giving object,0.1741,A59 walking towards
+NV_816,0,0.0584,A59 walking towards,0.0245,A59 walking towards
+NV_819,0,0.0254,A60 walking apart,0.009,A60 walking apart
+NV_82,0,0.0007,A59 walking towards,0.0151,falling
+NV_820,0,0.2694,A57 touch other's pocket,0.117,A59 walking towards
+NV_821,0,0.1152,A59 walking towards,0.0441,A59 walking towards
+NV_822,0,0.0404,A59 walking towards,0.0116,A60 walking apart
+NV_823,0,0.0004,A59 walking towards,0.0019,falling
+NV_824,0,0.0008,A59 walking towards,0.0029,A59 walking towards
+NV_826,0,0.0165,A60 walking apart,0.0038,A60 walking apart
+NV_827,0,0.0373,hopping,0.0056,A59 walking towards
+NV_829,0,0.1732,wear jacket,0.0227,A60 walking apart
+NV_830,0,0.0275,A59 walking towards,0.0234,A59 walking towards
+NV_831,0,0.0265,A60 walking apart,0.0073,A59 walking towards
+NV_834,0,0.1108,A59 walking towards,0.0396,A59 walking towards
+NV_835,0,0.0033,A59 walking towards,0.0013,A59 walking towards
+NV_836,0,0.0052,A59 walking towards,0.0043,A59 walking towards
+NV_839,0,0.0001,A59 walking towards,0.0041,A59 walking towards
+NV_840,0,0.0293,A59 walking towards,0.0446,A59 walking towards
+NV_843,0,0.1955,A57 touch other's pocket,0.0416,A59 walking towards
+NV_845,0,0.0149,A60 walking apart,0.002,A59 walking towards
+NV_848,0,0.0241,staggering,0.0244,cheer up
+NV_849,0,0.0076,touch back,0.0045,touch back
+NV_853,0,0.0549,A57 touch other's pocket,0.0013,A60 walking apart
+NV_855,0,0.2662,A60 walking apart,0.009,A60 walking apart
+NV_858,0,0.0218,A59 walking towards,0.0049,A59 walking towards
+NV_859,0,0.0433,A59 walking towards,0.0384,A59 walking towards
+NV_860,0,0.0079,A59 walking towards,0.0823,A59 walking towards
+NV_862,0,0.004,wear jacket,0.0088,wear jacket
+NV_863,0,0.0051,use a fan,0.0042,use a fan
+NV_864,0,0.0145,A59 walking towards,0.0646,A59 walking towards
+NV_867,0,0.0025,A59 walking towards,0.0029,A59 walking towards
+NV_868,0,0.0006,A59 walking towards,0.0052,A59 walking towards
+NV_870,0,0.0005,A59 walking towards,0.0007,A59 walking towards
+NV_871,0,0.0007,A59 walking towards,0.0123,A60 walking apart
+NV_873,0,0.0016,A59 walking towards,0.0027,A59 walking towards
+NV_874,0,0.0099,A59 walking towards,0.0247,A59 walking towards
+NV_878,0,0.001,A60 walking apart,0.0003,A60 walking apart
+NV_879,0,0.0339,A54 point finger at other,0.0327,A59 walking towards
+NV_880,0,0.0189,A57 touch other's pocket,0.0002,A59 walking towards
+NV_881,0,0.0334,A57 touch other's pocket,0.0069,A59 walking towards
+NV_882,0,0.0131,A59 walking towards,0.0103,A59 walking towards
+NV_883,0,0.0624,wear jacket,0.0218,A59 walking towards
+NV_884,0,0.1638,wear jacket,0.0083,A59 walking towards
+NV_889,0,0.0036,A59 walking towards,0.0123,A59 walking towards
+NV_890,0,0.0003,touch neck,0.0006,touch neck
+NV_891,0,0.0014,brush hair,0.0009,wipe face
+NV_895,0,0.0001,wipe face,0.0,wipe face
+NV_896,0,0.0004,wipe face,0.0025,wipe face
+NV_90,0,0.0016,nausea / vomiting,0.0002,staggering
+NV_900,0,0.0056,clapping,0.0046,clapping
+NV_901,0,0.0003,brush hair,0.0002,brush hair
+NV_905,0,0.0034,wear jacket,0.0048,wear jacket
+NV_906,0,0.002,brush hair,0.0028,falling
+NV_907,0,0.0004,wipe face,0.002,pick up
+NV_908,0,0.0002,A59 walking towards,0.0054,falling
+NV_909,0,0.0016,wipe face,0.0019,wipe face
+NV_91,0,0.0021,A55 hugging,0.0082,falling
+NV_912,0,0.0014,nausea / vomiting,0.0008,kicking something
+NV_914,0,0.0012,touch neck,0.0017,touch head
+NV_917,0,0.0018,touch head,0.0058,falling
+NV_92,0,0.0017,A59 walking towards,0.0257,A59 walking towards
+NV_922,0,0.0002,A59 walking towards,0.001,A59 walking towards
+NV_923,0,0.002,nausea / vomiting,0.0022,A59 walking towards
+NV_925,0,0.0013,touch neck,0.0021,A59 walking towards
+NV_926,0,0.0029,A59 walking towards,0.0221,A60 walking apart
+NV_93,0,0.0004,A59 walking towards,0.0053,falling
+NV_933,0,0.0076,A59 walking towards,0.0106,falling
+NV_934,0,0.0049,A59 walking towards,0.0253,A59 walking towards
+NV_935,0,0.006,A60 walking apart,0.004,A60 walking apart
+NV_936,0,0.0025,nausea / vomiting,0.0101,A59 walking towards
+NV_937,0,0.0044,A55 hugging,0.0303,A55 hugging
+NV_939,0,0.0231,A59 walking towards,0.0338,wear jacket
+NV_940,0,0.0016,A59 walking towards,0.0195,A59 walking towards
+NV_941,0,0.0111,A59 walking towards,0.0568,A60 walking apart
+NV_944,0,0.0001,A59 walking towards,0.0042,A60 walking apart
+NV_946,0,0.0008,A59 walking towards,0.003,A60 walking apart
+NV_948,0,0.0007,A59 walking towards,0.0167,falling
+NV_95,0,0.0003,A59 walking towards,0.0044,falling
+NV_950,0,0.0034,A59 walking towards,0.0069,A59 walking towards
+NV_953,0,0.0023,A59 walking towards,0.0006,A60 walking apart
+NV_954,0,0.0002,A59 walking towards,0.0027,A59 walking towards
+NV_955,0,0.0083,A59 walking towards,0.0088,A59 walking towards
+NV_956,0,0.0313,A59 walking towards,0.0189,A59 walking towards
+NV_958,0,0.0042,A59 walking towards,0.0061,falling
+NV_959,0,0.0022,A55 hugging,0.006,A60 walking apart
+NV_96,0,0.0025,A59 walking towards,0.0026,A60 walking apart
+NV_961,0,0.0015,A59 walking towards,0.0173,falling
+NV_962,0,0.001,A59 walking towards,0.0143,A59 walking towards
+NV_964,0,0.0001,A59 walking towards,0.0024,A59 walking towards
+NV_966,0,0.0013,A59 walking towards,0.0034,A59 walking towards
+NV_967,0,0.0001,A59 walking towards,0.0033,A59 walking towards
+NV_968,0,0.0012,A59 walking towards,0.0007,A59 walking towards
+NV_97,0,0.0002,A59 walking towards,0.0054,A59 walking towards
+NV_972,0,0.0005,A59 walking towards,0.0052,A59 walking towards
+NV_976,0,0.0004,A59 walking towards,0.0025,A59 walking towards
+NV_977,0,0.0083,A59 walking towards,0.001,A59 walking towards
+NV_98,0,0.0008,A59 walking towards,0.0036,A59 walking towards
+NV_980,0,0.0017,staggering,0.0011,staggering
+NV_981,0,0.0021,touch head,0.0033,wear a shoe
+NV_984,0,0.0009,A59 walking towards,0.0087,A59 walking towards
+NV_985,0,0.0009,A59 walking towards,0.0116,A59 walking towards
+NV_986,0,0.0002,A59 walking towards,0.0048,A59 walking towards
+NV_987,0,0.0014,nausea / vomiting,0.0002,staggering
+NV_988,0,0.0017,nausea / vomiting,0.0016,wear a shoe
+NV_99,0,0.0065,A59 walking towards,0.0251,A59 walking towards
+NV_990,0,0.0017,A59 walking towards,0.0011,A59 walking towards
+NV_991,0,0.0075,A59 walking towards,0.0031,A59 walking towards
+NV_992,0,0.0005,A59 walking towards,0.001,staggering
+NV_993,0,0.0011,touch back,0.0055,falling
+NV_995,0,0.0048,put palms together,0.0031,touch chest
+NV_997,0,0.0109,A59 walking towards,0.0104,put palms together
+NV_998,0,0.001,phone call,0.0039,phone call

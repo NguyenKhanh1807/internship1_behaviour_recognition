@@ -1,0 +1,13 @@
+Ensemble ProtoGCN (scratch_p100), trung binh xac suat, trong so bang nhau, nguong 0.5
+
+luong / to hop (cung 210 video test)     P     R    F1 CI95 F1        Acc    AUC CI95 AUC     FP/FN
+ProtoGCN j                            0.85  0.89  0.87 [0.82-0.91]   0.86  0.918 [0.88-0.95]   17/12 
+ProtoGCN bm                           0.84  0.86  0.85 [0.80-0.90]   0.85  0.929 [0.89-0.96]   17/15 
+ProtoGCN j+bm                         0.88  0.91  0.89 [0.85-0.94]   0.89  0.932 [0.90-0.96]   13/10 
+ST-GCN 1p                             0.86  0.93  0.90 [0.85-0.94]   0.89  0.963 [0.94-0.98]   16/7  
+ST-GCN 2p                             0.84  0.93  0.88 [0.83-0.93]   0.88  0.931 [0.89-0.97]   19/7  
+ProtoGCN j+bm + ST-GCN 1p/2p          0.89  0.95  0.92 [0.88-0.95]   0.91  0.947 [0.92-0.97]   13/5  
+
+tuong quan xac suat giua cac luong: j-bm 0.86
+McNemar j+bm+stgcn (Acc cao nhat) vs ST-GCN 1p: dung/sai = 8, nguoc lai = 3, p = 0.227
+(chon to hop tot nhat tren tap test -> lac quan; can validation hoac 5-fold de ket luan)

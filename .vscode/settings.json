@@ -1,0 +1,5 @@
+{
+  "workbench.startupEditor": "readme",
+  "python.defaultInterpreterPath": "${workspaceFolder}/fight-demo/.venv/bin/python",
+  "markdown.preview.openMarkdownLinks": "inEditor"
+}

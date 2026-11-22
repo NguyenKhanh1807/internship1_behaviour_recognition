@@ -1,0 +1,24 @@
+1061 video, Random Forest: 5-fold CV lap 10 lan (trung binh +- do lech chuan)
+phuong phap              Precision      Recall          F1    Accuracy
+heuristic base           0.74+-0.00   0.77+-0.00   0.75+-0.00   0.75+-0.00
+heuristic impact0.02     0.80+-0.00   0.73+-0.00   0.76+-0.00   0.77+-0.00
+Random Forest            0.83+-0.00   0.91+-0.01   0.87+-0.00   0.86+-0.00
+
+Do quan trong dac trung (Random Forest):
+  motion_all_p90     0.157
+  approach_p90       0.151
+  speed_p90          0.140
+  speed_max          0.063
+  n_frames           0.062
+  frac_close_fast    0.054
+  events_impact      0.048
+  impact_p90         0.046
+  id_churn           0.043
+  approach_max       0.041
+  min_dist           0.041
+  longest_streak_s   0.029
+  events_base        0.027
+  impact_max         0.027
+  frac_close         0.027
+  persons_mean       0.023
+  frac_2plus         0.023

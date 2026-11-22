@@ -1,0 +1,143 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "fight_demo - sparring (TrackTrack)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight_demo.py",
+      "args": [
+        "--source",
+        "videos/sparring.mp4",
+        "--tracker",
+        "tracktrack.yaml",
+        "--device",
+        "mps",
+        "--out",
+        "runs/debug_tracktrack"
+      ],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "TN1 - BoT-SORT ReID + YOLO11n",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/fight_demo.py",
+      "args": [
+        "--source",
+        "videos/sparring.mp4",
+        "--tracker",
+        "my_botsort.yaml",
+        "--device",
+        "mps",
+        "--out",
+        "runs/sparring_botsort_reid"
+      ],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "name": "TN2 - TrackTrack + YOLO26n",
+      "program": "${workspaceFolder}/fight_demo.py",
+      "args": [
+        "--source",
+        "videos/sparring.mp4",
+        "--model",
+        "yolo26n-pose.pt",
+        "--tracker",
+        "tracktrack.yaml",
+        "--device",
+        "mps",
+        "--out",
+        "runs/sparring_tracktrack_y26"
+      ]
+    },
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "name": "TN3 - BoT-SORT ReID + YOLO26n",
+      "program": "${workspaceFolder}/fight_demo.py",
+      "args": [
+        "--source",
+        "videos/sparring.mp4",
+        "--model",
+        "yolo26n-pose.pt",
+        "--tracker",
+        "my_botsort.yaml",
+        "--device",
+        "mps",
+        "--out",
+        "runs/sparring_botsort_reid_y26"
+      ]
+    },
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "name": "Giai doan 2-3 - eval RLVS (A: YOLO11n + TrackTrack)",
+      "program": "${workspaceFolder}/eval_videos.py",
+      "args": [
+        "--root",
+        "datasets",
+        "--n",
+        "20"
+      ]
+    },
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false,
+      "name": "Giai doan 2-3 - eval RLVS (B: YOLO26n + BoT-SORT ReID)",
+      "program": "${workspaceFolder}/eval_videos.py",
+      "args": [
+        "--root",
+        "datasets",
+        "--n",
+        "20",
+        "--model",
+        "yolo26n-pose.pt",
+        "--tracker",
+        "my_botsort.yaml"
+      ]
+    },
+    {
+      "name": "compare_runs",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/compare_runs.py",
+      "args": [
+        "runs/sparring_tracktrack",
+        "runs/sparring_botsort",
+        "runs/sparring_bytetrack",
+        "runs/sparring_botsort_reid",
+        "runs/sparring_tracktrack_y26",
+        "runs/sparring_botsort_reid_y26"
+      ],
+      "cwd": "${workspaceFolder}",
+      "python": "${workspaceFolder}/.venv/bin/python",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}

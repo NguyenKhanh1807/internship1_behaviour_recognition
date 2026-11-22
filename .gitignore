@@ -1,0 +1,28 @@
+# Du lieu, video, checkpoint, moi truong: khong dua len GitHub
+.DS_Store
+__pycache__/
+.venv/
+*.pt
+*.pth
+*.pkl
+*.npz
+*.npy
+*.mp4
+*.avi
+*.gif
+
+# Ma nguon ben thu ba (ultralytics, mmaction2) va PDF bai bao
+source/
+report/
+
+# Dataset RLVS va video thu
+fight-demo/datasets/
+fight-demo/videos/
+
+# Cache keypoint va dac trung tung video (tao lai duoc bang script)
+fight-demo/runs/eval_cache/
+fight-demo/runs/eval/*/pos/
+fight-demo/runs/eval/*/neg/
+fight-demo/runs/**/keypoints.csv
+fight-demo/runs/**/feat_img/
+fight-demo/runs/**/feat_person/

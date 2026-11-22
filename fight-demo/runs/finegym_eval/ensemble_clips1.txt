@@ -1,0 +1,20 @@
+Gop luong ProtoGCN tren FineGYM val (8521 video, 1 clip/video), trong so bang nhau
+
+luong / to hop     top-1  mean class acc
+j                 0.9309          0.9046
+b                 0.9481          0.9286
+jm                0.9378          0.9154
+bm                0.9304          0.9071
+j+b               0.9533          0.9336
+j+jm              0.9451          0.9229
+j+bm              0.9461          0.9246
+b+jm              0.9558          0.9383
+b+bm              0.9487          0.9266
+jm+bm             0.9454          0.9231
+j+b+jm            0.9561          0.9375
+j+b+bm            0.9556          0.9352
+j+jm+bm           0.9522          0.9325
+b+jm+bm           0.9541          0.9342
+j+b+jm+bm         0.9569          0.9380
+
+Bai bao (Table 2): 95.9% cho ban gop nhieu luong hon, gom ca cac luong chua co trong ban port.

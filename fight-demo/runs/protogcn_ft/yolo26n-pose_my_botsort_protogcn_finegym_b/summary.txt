@@ -1,0 +1,14 @@
+ProtoGCN init=protogcn_finegym_b. 1049 video, train 839, test 210 (seed 0), 12 epoch, lr 0.01, bs 16, 4.02M tham so, 50s/epoch, 138 ms/video test (10 clip, mps)
+
+phuong phap (cung 210 video test)     P     R    F1 CI95 F1        Acc    AUC CI95 AUC     FP/FN
+ProtoGCN (protogcn_finegym_b)     0.93  0.93  0.93 [0.89-0.96]   0.93  0.973 [0.95-0.99]    8/7  
+ProtoGCN (protogcn_finegym_j)     0.87  0.88  0.87 [0.82-0.92]   0.87  0.963 [0.94-0.98]   14/13 
+ProtoGCN (scratch_p100)           0.85  0.89  0.87 [0.82-0.91]   0.86  0.918 [0.88-0.95]   17/12 
+ProtoGCN (scratch_p400)           0.88  0.88  0.88 [0.83-0.92]   0.88  0.931 [0.89-0.96]   13/13 
+ST-GCN fine-tune (1p)             0.86  0.93  0.90 [0.85-0.94]   0.89  0.963 [0.94-0.98]   16/7  
+ST-GCN fine-tune (2p)             0.84  0.93  0.88 [0.83-0.93]   0.88  0.931 [0.89-0.97]   19/7  
+luat base                         0.70  0.74  0.72 [0.64-0.78]   0.70    -                 34/28 
+Random Forest                     0.81  0.87  0.84 [0.78-0.89]   0.83  0.921 [0.88-0.95]   22/14 
+ST-GCN probe256 (dong bang)       0.86  0.91  0.88 [0.83-0.92]   0.88  0.915 [0.87-0.95]   16/10 
+
+McNemar ProtoGCN(protogcn_finegym_b) vs ST-GCN 1p: ProtoGCN dung/ST-GCN sai = 13, nguoc lai = 5, p = 0.096

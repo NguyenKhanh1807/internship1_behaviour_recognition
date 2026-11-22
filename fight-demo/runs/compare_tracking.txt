@@ -1,0 +1,7 @@
+run                                  so ID   ID <30f  nguoi/frame   events
+runs/sparring_tracktrack                99        31          7.1      714
+runs/sparring_botsort                  236       127         10.1     1498
+runs/sparring_bytetrack                269       170          9.8     1337
+runs/sparring_botsort_reid             123        59         10.5      741
+runs/sparring_tracktrack_y26            98        32          6.6      261
+runs/sparring_botsort_reid_y26          88        34         10.4      444

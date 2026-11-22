@@ -1,0 +1,9 @@
+chon nguoi: pair. 133 video RLVS, ST-GCN NTU-60 2D joint (pretrained), 5-fold CV lap 10 lan
+
+=== chuan hoa 'img' ===
+top-1 pho bien: A59 walking towards (96), A60 walking apart (10), A55 hugging (8), wear jacket (4), staggering (2)
+diem danh nhau trung binh: danh nhau 0.017 | binh thuong 0.021 | ROC-AUC 0.402
+cach dung                              Precision        Recall            F1
+zero-shot (A50+A51+A52, nguong CV)    0.51+-0.00    0.97+-0.01    0.67+-0.00
+probe60 (LogReg tren 60 xac suat)     0.82+-0.01    0.92+-0.02    0.87+-0.01
+probe256 (LogReg tren dac trung)      0.82+-0.02    0.89+-0.01    0.85+-0.01

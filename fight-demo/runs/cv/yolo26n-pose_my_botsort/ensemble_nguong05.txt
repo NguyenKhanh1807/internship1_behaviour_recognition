@@ -1,0 +1,14 @@
+Gop mo hinh tren 5-fold OOF (1049 video), trung binh xac suat, nguong 0.5
+
+mo hinh / to hop                  F1 tb+-std  F1 OOF  AUC OOF   FP/FN   McNemar vs stgcn_1p
+stgcn_1p                         0.911+-0.017   0.911    0.965   59/37   -
+protogcn_b                       0.909+-0.008   0.909    0.974   50/47   dung/ST-GCN sai 48, nguoc lai 49, p = 1.0000
+protogcn_j                       0.916+-0.015   0.915    0.974   42/47   dung/ST-GCN sai 43, nguoc lai 36, p = 0.4999
+protogcn_jm                      0.914+-0.007   0.914    0.969   48/43   dung/ST-GCN sai 39, nguoc lai 34, p = 0.6400
+protogcn_bm                      0.916+-0.012   0.916    0.969   48/41   dung/ST-GCN sai 52, nguoc lai 45, p = 0.5426
+b+j                              0.930+-0.014   0.930    0.979   37/37   dung/ST-GCN sai 48, nguoc lai 26, p = 0.0141
+b+st                             0.927+-0.011   0.927    0.977   46/32   dung/ST-GCN sai 30, nguoc lai 12, p = 0.0079
+j+st                             0.928+-0.009   0.928    0.974   43/34   dung/ST-GCN sai 30, nguoc lai 11, p = 0.0043
+b+j+st                           0.924+-0.009   0.924    0.979   45/36   dung/ST-GCN sai 30, nguoc lai 15, p = 0.0357
+4 luong ProtoGCN (b+j+jm+bm)     0.933+-0.008   0.933    0.980   36/35   dung/ST-GCN sai 47, nguoc lai 22, p = 0.0035
+5 mo hinh (b+j+jm+bm+st)         0.934+-0.003   0.934    0.980   38/32   dung/ST-GCN sai 39, nguoc lai 13, p = 0.0004

@@ -1,0 +1,8 @@
+1049 video, train 839, test 210 (ti le 0.2, seed 0), 12 epoch, lr 0.01, bs 16
+
+phuong phap (cung tap test)          P       R      F1     Acc     AUC
+ST-GCN fine-tune                  0.86    0.93    0.90    0.89   0.963
+luat base                         0.70    0.74    0.72    0.70     -  
+luat impact0.02                   0.76    0.69    0.72    0.73     -  
+Random Forest                     0.81    0.88    0.84    0.83   0.924
+ST-GCN probe256 (dong bang)       0.86    0.91    0.88    0.88   0.915

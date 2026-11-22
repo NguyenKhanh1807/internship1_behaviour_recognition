@@ -1,0 +1,4 @@
+Kiem chung ban port ProtoGCN tren FineGYM val: checkpoint protogcn_finegym_j, luong j, 10 clip/video, 8521 video, mps, 1806s
+  ban port (protogcn_model.py): top-1 0.9326 | top-5 0.9972 | mean class acc 0.9094
+  log cua tac gia              : top-1 0.9328 |              | mean class acc 0.9092
+  chenh lech                   : top-1 -0.0002 |              | mean class acc +0.0002
